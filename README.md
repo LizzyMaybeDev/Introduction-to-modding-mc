@@ -38,21 +38,21 @@
 - More not coming soon
 
 ## Mods you should avoid - Alternatives
-- [LabyMod](https://github.com/MicrocontrollersDev/LabyMod-Alternatives) - LabyMod causes a ton of incompatibilities with other mods and it is not recommended.
+- [LabyMod](https://github.com/MicrocontrollersDev/LabyMod-Alternatives) - LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
 - [SkyblockExtras](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives) - SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore breaks EULA, and has a ton of problems causing crashes and visual glitches, and the developer steals stuff pepelaugh.
 - SkyblockCatia - Causes a ton of incompatibilities, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
 - Skypixel - Outdated and no longer works for Skyblock, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
-- SpiderFrog's OAM -
-- Orange Marshall's OAM -
-- PlayerAPI -
-- ResourcePack organizer by Chylex -
-- Modcore Container -
-- BetterChat -
-- Betterfps -
-- TexFix -
-- FoamFix -
-- 1.8.9 TcpNoDelay -
-- Vanilla Enhancements -
+- [SpiderFrog's OAM](https://sk1er.club/beta - has over 7mb of bloat and causes crashes. Instead you can use [Sk1er's OAM](https://sk1er.club/beta) which is currently in beta.
+- [Orange Marshall's OAM](https://sk1er.club/beta) - doesnt look like 1.7, missing animations like old sneaking animation, Overwrites many things unnecessarily causing other mods to break, like optifine's custom item texture. Instead you can use [Sk1er's OAM](https://sk1er.club/beta) which is currently in beta
+- PlayerAPI - only mod i've seen that uses PlayerAPI is the 2 years old powns togglesprint mod but fortunately enough developers now know how access transformers actually work and arent lazy. 
+- [ResourcePack organizer](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Chylex - overwrites the custom sky for some bizarre reason lmao. Instead you can use [Resourcepack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) by aycy.
+- Modcore Container - was used to allow players to try out [Modcore](https://sk1er.club/modcore) before it was a thing, but now modcore is auto installed with all [Sk1er Mods](https://sk1er.club/)/Partnered developer's mods and in any mod that contains it.
+- BetterChat - Overwrites the chat, hopefully getting a rewrite soon as the developer promised.
+- Betterfps - Useless and can cause a LOT of [issues](https://twitter.com/asbythh/status/1260072556989644800?s=20) as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
+- TexFix - Useless unless you have a big modpack and can barely lower memory usage.
+- FoamFix - The 1.8.9 version is a useless and hacky mod however the 1.12.2 version is recommended.
+- 1.8.9 TcpNoDelay - Useless as 1.8.9 already has that enabled.
+- [Vanilla Enhancements](https://sk1er.llc/mods/patcher) - Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature its also unmaintained and abandoned which is why the chat tabs are broken and never getting fixed. Instead [Patcher](https://sk1er.llc/mods/patcher) takes some of its best features and fixes them.
 
 ## Features you might be looking for - Mods
 
