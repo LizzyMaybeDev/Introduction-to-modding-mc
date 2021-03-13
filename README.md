@@ -40,7 +40,7 @@
 ## Mods you should avoid - Alternatives
 
 - [LabyMod](https://github.com/MicrocontrollersDev/LabyMod-Alternatives) - LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
-- [SkyblockExtras](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives) - SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore breaks EULA, and has a ton of problems causing crashes and visual glitches, and the developer steals stuff pepelaugh.
+- [SkyblockExtras](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives) - SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore violates [Mojang's EULA](https://account.mojang.com/documents/minecraft_eula), and has a ton of problems causing crashes and visual glitches, and the developer steals stuff pepelaugh.
 - SkyblockCatia - Causes a ton of incompatibilities, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
 - Skypixel - Outdated and no longer works for Skyblock, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
 - [SpiderFrog's OAM](https://sk1er.club/beta) - has over 7mb of bloat and causes crashes. Instead you can use [Sk1er's OAM](https://sk1er.club/beta) which is currently in beta.
