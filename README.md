@@ -38,6 +38,7 @@
 - [LinuxLWJGLKeyFix](https://github.com/Vonr/LinuxLWJGLKeyFix) - Fixes a LWJGL bug causing incorrect registration of Shift+2 and Shift+6 on Linux systems.
 
 ## Mods you should avoid - Alternatives
+
 - [LabyMod](https://github.com/MicrocontrollersDev/LabyMod-Alternatives) - LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
 - [SkyblockExtras](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives) - SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore breaks EULA, and has a ton of problems causing crashes and visual glitches, and the developer steals stuff pepelaugh.
 - SkyblockCatia - Causes a ton of incompatibilities, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
@@ -53,7 +54,6 @@
 - FoamFix - The 1.8.9 version is a useless and hacky mod however the 1.12.2 version is recommended.
 - 1.8.9 TcpNoDelay - Useless as 1.8.1 and above already has this enabled.
 - [Vanilla Enhancements](https://sk1er.llc/mods/patcher) - Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature its also unmaintained and abandoned which is why the chat tabs are broken and never getting fixed. Instead [Patcher](https://sk1er.llc/mods/patcher) takes some of its best features and fixes them.
-- Orange's Simple Mods - Orange's mods can cause problems and incompatibilities and are not recommended. Please use Powns' [togglesprint](https://download.powns.dev/togglesneak189), [armor HUD](https://download.powns.dev/armorhud189), and [potion HUD](https://download.powns.dev/potionhud189) instead.
 
 ## Features you might be looking for - Mods
 
