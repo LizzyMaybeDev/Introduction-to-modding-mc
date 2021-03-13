@@ -35,7 +35,7 @@
 - [NotEnoughUpdates](https://moulberry.github.io/projects) (skyblock mod) - A mod that provides an NEI interface for searching and viewing item crafting recipes, information & more in Hypixel Skyblock.
 - [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/) - A mod to quickly join hypixel games & sort them to keybinds.
 - [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385) - Fixes the Problem of having to restart your client when your session is invalid & more.
-- More not coming soon
+-[LinuxLWJGLKeyFix](https://github.com/Vonr/LinuxLWJGLKeyFix) - Fixes a LWJGL bug causing incorrect registration of Shift+2 and Shift+6 on Linux systems.
 
 ## Mods you should avoid - Alternatives
 - [LabyMod](https://github.com/MicrocontrollersDev/LabyMod-Alternatives) - LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
