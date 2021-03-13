@@ -51,7 +51,7 @@
 - BetterFPS - Useless and can cause a LOT of [issues](https://twitter.com/asbythh/status/1260072556989644800?s=20) as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
 - TexFix - Useless unless you have a big modpack and can barely lower memory usage.
 - FoamFix - The 1.8.9 version is a useless and hacky mod however the 1.12.2 version is recommended.
-- TcpNoDelay - Useless as 1.8.1 and above already has this enabled.
+- 1.8.9 TcpNoDelay - Useless as 1.8.1 and above already has this enabled.
 - [Vanilla Enhancements](https://sk1er.llc/mods/patcher) - Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature its also unmaintained and abandoned which is why the chat tabs are broken and never getting fixed. Instead [Patcher](https://sk1er.llc/mods/patcher) takes some of its best features and fixes them.
 - Orange's Simple Mods - Orange's mods can cause problems and incompatibilities and are not recommended. Please use Powns' [togglesprint](https://download.powns.dev/togglesneak189), [armor HUD](https://download.powns.dev/armorhud189), and [potion HUD](https://download.powns.dev/potionhud189) instead.
 
