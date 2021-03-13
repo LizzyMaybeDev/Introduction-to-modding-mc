@@ -4,7 +4,6 @@
 ![3](https://regex.rest/media/forgefordummies/3.png)
 ## Open minecraft launcher and check if forge's profile is there, if not then you can create it ![4](https://regex.rest/media/forgefordummies/4.png)
 ## Now that we're done with forge you can press windows+r and type %appdata% and open the .minecraft folder, then create a folder called "mods" if it isnt there already
-i should also add more here
 ## Recommended Mods
 - [Optifine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) 
 - [Patcher](https://sk1er.llc/mods/patcher), if you're wondering what patcher does check [this](https://hst.sh/haxomowote.cpp) thing i've made with all of its features, basically its a performance mod filled with bug fixes and quality of life features basically a must have in every forge folder.
@@ -12,6 +11,7 @@ i should also add more here
 - [Powns Togglesprint](https://download.powns.dev/togglesneak189)
 - [Resourcepack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM), this is the best version of resource pack manager as the resource pack organizer Chylex made had some issues with custom sky.
 - And you can always check [sk1er.club](https://sk1er.llc) for the latest sk1er llc/partners mods. 
+- i should add more mods here
 ## Mods that you may have not heard of
 - [Revamped Timechanger](https://hypixel.net/threads/forge-1-8-9-timechanger-2-2-1-an-improved-timechanger-mod.3574261/) - A mod for changing time client-side.
 - [Chattriggers](https://chattriggers.com/) - ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript, in english its a mod that allows you to use javascript for stuff basically so they have tons of useful modules on their website they're like mini-mods but use javascript.
@@ -24,7 +24,7 @@ i should also add more here
 - [NotEnoughUpdates](https://moulberry.github.io/projects) (skyblock mod) - A mod that provides a**n** NEI interface for searching and viewing item crafting recipes, information & more in Hypixel Skyblock.
 - [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/) - A mod to quickly join hypixel games & sort them to keybinds.
 - [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385) - Fixes the Problem of having to restart your Client when your Session is invalid & more.
-i should add more when i finish being lazy
+- i should add more when i finish being lazy
 ## Mods you should prevent using - Alternatives
 todo
 ## Features you might be looking for - Mods
