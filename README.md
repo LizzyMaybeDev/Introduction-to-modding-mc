@@ -35,16 +35,26 @@
 - [NotEnoughUpdates](https://moulberry.github.io/projects) (skyblock mod) - A mod that provides an NEI interface for searching and viewing item crafting recipes, information & more in Hypixel Skyblock.
 - [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/) - A mod to quickly join hypixel games & sort them to keybinds.
 - [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385) - Fixes the Problem of having to restart your client when your session is invalid & more.
-- More coming soon
+- More not coming soon
 
 ## Mods you should avoid - Alternatives
 - [LabyMod](https://github.com/MicrocontrollersDev/LabyMod-Alternatives) - LabyMod causes a ton of incompatibilities with other mods and it is not recommended.
-- [SkyblockExtras](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives) - SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore breaks EULA, and has a ton of problems causing crashes and visual glitches.
-- SkyblockCatia - Causes a ton of incompatibilities, see SBE alternatives.
-- Skypixel - Outdated and no longer works for Skyblock, see SBE alternatives.
+- [SkyblockExtras](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives) - SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore breaks EULA, and has a ton of problems causing crashes and visual glitches, and the developer steals stuff pepelaugh.
+- SkyblockCatia - Causes a ton of incompatibilities, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
+- Skypixel - Outdated and no longer works for Skyblock, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
+- SpiderFrog's OAM -
+- Orange Marshall's OAM -
+- PlayerAPI -
+- ResourcePack organizer by Chylex -
+- Modcore Container -
+- BetterChat -
+- Betterfps -
+- TexFix -
+- FoamFix -
+- 1.8.9 TcpNoDelay -
+- Vanilla Enhancements -
 
 ## Features you might be looking for - Mods
-WIP
 
 - Armor Status - [Powns ArmorHud](https://download.powns.dev/armorhud189) / [Bsprks ArmorStatusHud](https://hypixel.net/threads/bspkrs-mods-for-1-8-9-forge.1207968/) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
 - AutoGG - [Sk1er AutoGG](https://sk1er.club/mods/autogg)
