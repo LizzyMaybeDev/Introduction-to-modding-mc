@@ -42,7 +42,7 @@
 - [SkyblockExtras](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives) - SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore breaks EULA, and has a ton of problems causing crashes and visual glitches, and the developer steals stuff pepelaugh.
 - SkyblockCatia - Causes a ton of incompatibilities, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
 - Skypixel - Outdated and no longer works for Skyblock, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
-- [SpiderFrog's OAM](https://sk1er.club/beta - has over 7mb of bloat and causes crashes. Instead you can use [Sk1er's OAM](https://sk1er.club/beta) which is currently in beta.
+- [SpiderFrog's OAM](https://sk1er.club/beta) - has over 7mb of bloat and causes crashes. Instead you can use [Sk1er's OAM](https://sk1er.club/beta) which is currently in beta.
 - [Orange Marshall's OAM](https://sk1er.club/beta) - doesnt look like 1.7, missing animations like old sneaking animation, Overwrites many things unnecessarily causing other mods to break, like optifine's custom item texture. Instead you can use [Sk1er's OAM](https://sk1er.club/beta) which is currently in beta
 - PlayerAPI - only mod i've seen that uses PlayerAPI is the 2 years old powns togglesprint mod but fortunately enough developers now know how access transformers actually work and arent lazy. 
 - [ResourcePack organizer](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Chylex - overwrites the custom sky for some bizarre reason lmao. Instead you can use [Resourcepack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) by aycy.
