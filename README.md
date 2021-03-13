@@ -31,7 +31,7 @@
 - [OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw) - A mod to change what particles are shown when you hit someone with great customizability by aycy.
 - [Damage Tint](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/) - A mod change the damage tint when you hit someone by aycy.
 - [Block Overlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/) - A mod to change the block outline when you hover over blocks with complete customizability over the outline and a very nice unique GUI with live preview, most people use the old powns continuation of the mod but the original mod has been updated.
-- [DJPerspectivemod](https://github.com/DJtheRedstoner/PerspectiveModv4) - A remake of canalex's perspective mod with bugfixes.
+- [DJPerspectiveMod](https://github.com/DJtheRedstoner/PerspectiveModv4) - A remake of canalex's perspective mod with bugfixes.
 - [NotEnoughUpdates](https://moulberry.github.io/projects) (skyblock mod) - A mod that provides an NEI interface for searching and viewing item crafting recipes, information & more in Hypixel Skyblock.
 - [Quickplay](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/) - A mod to quickly join hypixel games & sort them to keybinds.
 - [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385) - Fixes the Problem of having to restart your client when your session is invalid & more.
