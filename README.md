@@ -19,13 +19,13 @@
 - [Old Animations Mod](https://sk1er.club/beta) - This one is sk1er's OAM which is currently in beta and it already has an entire rewrite coming soon, its more accurate than orange's OAM and Spiderfrog's OAM and made to be compatible with other mods.
 - [Powns Togglesprint](https://download.powns.dev/togglesneak189) - Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant.
 - [Resourcepack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) - This is the best version of resource pack manager as the resource pack organizer Chylex made had some issues with custom sky.
-- [Cowlection](https://github.com/cow-mc/Cowlection/releases) - A client-side only Forge mod that contains a collection of features. (mainly for skyblock but otherwise its a good mod).
+- [Cowlection](https://github.com/cow-mc/Cowlection/releases) - A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod).
 - And you can always check [sk1er.club](https://sk1er.llc) for the latest sk1er llc/partners mods. 
 
 ## Mods that you may have not heard of
 
 - [Revamped Timechanger](https://hypixel.net/threads/forge-1-8-9-timechanger-2-2-1-an-improved-timechanger-mod.3574261/) - A mod for changing time client-side.
-- [ChatTriggers](https://chattriggers.com/) - ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. In other words, it's a mod that allows you to use javascript for stuff, and has tons of useful modules on their website. 
+- [ChatTriggers](https://chattriggers.com/) - ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. In other words, it's a mod that allows you to use javascript for stuff, and has tons of useful modules on their website. Please download the latest stable 1.3.1 release.
 - [MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog) - Simple mod to display FPS, CPS, and ping by aycy.
 - [ResourcePackDisplay](https://github.com/1fxe/Resource-Pack-Display/releases/) - (Not to be confused with Resourcepack Manager) Display current pack, the mod also has the /rpd random command to randomly choose a pack from your packs folder with detection for incompatible and duplicate mods.
 - [OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw) - A mod to change what particles are shown when you hit someone with great customizability by aycy.
@@ -43,16 +43,17 @@
 - SkyblockCatia - Causes a ton of incompatibilities, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
 - Skypixel - Outdated and no longer works for Skyblock, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
 - [SpiderFrog's OAM](https://sk1er.club/beta) - has over 7mb of bloat and causes crashes. Instead you can use [Sk1er's OAM](https://sk1er.club/beta) which is currently in beta.
-- [Orange Marshall's OAM](https://sk1er.club/beta) - doesnt look like 1.7, missing animations like old sneaking animation, Overwrites many things unnecessarily causing other mods to break, like optifine's custom item texture. Instead you can use [Sk1er's OAM](https://sk1er.club/beta) which is currently in beta
-- PlayerAPI - only mod i've seen that uses PlayerAPI is the 2 years old powns togglesprint mod but fortunately enough developers now know how access transformers actually work and arent lazy. 
+- [Orange Marshall's OAM](https://sk1er.club/beta) - doesnt look like 1.7, missing animations like old sneaking animation, Overwrites many things unnecessarily causing other mods to break, like OptiFine's custom item texture. Instead you can use [Sk1er's OAM](https://sk1er.club/beta) which is currently in beta
+- PlayerAPI - only mod I've seen that uses PlayerAPI is the 2 years old powns togglesprint mod but fortunately enough developers now know how access transformers actually work and arent lazy. 
 - [ResourcePack organizer](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Chylex - overwrites the custom sky for some bizarre reason lmao. Instead you can use [Resourcepack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) by aycy.
 - Modcore Container - was used to allow players to try out [Modcore](https://sk1er.club/modcore) before it was a thing, but now modcore is auto installed with all [Sk1er Mods](https://sk1er.club/)/Partnered developer's mods and in any mod that contains it.
 - BetterChat - Overwrites the chat, hopefully getting a rewrite soon as the developer promised.
-- Betterfps - Useless and can cause a LOT of [issues](https://twitter.com/asbythh/status/1260072556989644800?s=20) as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
+- BetterFPS - Useless and can cause a LOT of [issues](https://twitter.com/asbythh/status/1260072556989644800?s=20) as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
 - TexFix - Useless unless you have a big modpack and can barely lower memory usage.
 - FoamFix - The 1.8.9 version is a useless and hacky mod however the 1.12.2 version is recommended.
-- 1.8.9 TcpNoDelay - Useless as 1.8.9 already has that enabled.
+- TcpNoDelay - Useless as 1.8.1 and above already has this enabled.
 - [Vanilla Enhancements](https://sk1er.llc/mods/patcher) - Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature its also unmaintained and abandoned which is why the chat tabs are broken and never getting fixed. Instead [Patcher](https://sk1er.llc/mods/patcher) takes some of its best features and fixes them.
+- Orange's Simple Mods - Orange's mods can cause problems and incompatibilities and are not recommended. Please use Powns' [togglesprint](https://download.powns.dev/togglesneak189), [armor HUD](https://download.powns.dev/armorhud189), and [potion HUD](https://download.powns.dev/potionhud189) instead.
 
 ## Features you might be looking for - Mods
 
@@ -61,11 +62,11 @@
 - Autotext (!!! Bannable on Hypixel !!!) - [MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839)
 - AutoTip - [AutoTip](https://autotip.pro)
 - Bossbar - [Sk1er Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
-- CPS counter/keystrokes mod - [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html) / [Miniinfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+- CPS counter/keystrokes mod - [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html) / [MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - Clear chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Combo Counter - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
 - Coordinates - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns Coords Hud](https://download.powns.dev/coordsmod189)
-- Crosshair Mod - [Sparkless Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/2304056)
+- Crosshair Mod - [Sparkless Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3164058)
 - Direction Mod - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
 - Enchant Glint - [Powns Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 - FOV Changer - [Sk1er Patcher (/fov)](https://sk1er.club/mods/patcher)
