@@ -27,10 +27,10 @@
 
 - [Revamped Timechanger](https://hypixel.net/threads/forge-1-8-9-timechanger-2-2-1-an-improved-timechanger-mod.3574261/) - A mod for changing time client-side.
 - [ChatTriggers](https://chattriggers.com/) - ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. In other words, it's a mod that allows you to use javascript for stuff, and has tons of useful modules on their website. Please download the latest stable 1.3.1 release.
-- [MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog) - Simple mod to display FPS, CPS, and ping by aycy.
+- [MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog) - Simple mod to display FPS, CPS, and ping by Aycy.
 - [ResourcePackDisplay](https://github.com/1fxe/Resource-Pack-Display/releases/) - (Not to be confused with Resourcepack Manager) Display current pack, the mod also has the /rpd random command to randomly choose a pack from your packs folder with detection for incompatible and duplicate mods.
-- [OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw) - A mod to change what particles are shown when you hit someone with great customizability by aycy.
-- [Damage Tint](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/) - A mod change the damage tint when you hit someone by aycy.
+- [OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw) - A mod to change what particles are shown when you hit someone with great customizability by Aycy.
+- [Damage Tint](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/) - A mod change the damage tint when you hit someone by Aycy.
 - [Block Overlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/) - A mod to change the block outline when you hover over blocks with complete customizability over the outline and a very nice unique GUI with live preview. Most people use the old powns continuation of the mod but the original mod has been updated.
 - [DJPerspectiveMod](https://github.com/DJtheRedstoner/PerspectiveModv4) - A remake of canalex's perspective mod with bugfixes.
 - [NotEnoughUpdates](https://moulberry.github.io/projects) (skyblock mod) - A mod that provides an NEI interface for searching and viewing item crafting recipes, information & more in Hypixel Skyblock, as well as other QOL features.
@@ -67,7 +67,7 @@
 - Autotext (!!! Bannable on Hypixel !!!) - [MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839)
 - AutoTip - [Semx11 AutoTip](https://autotip.pro)
 - Bossbar - [Sk1er Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
-- CPS Counter/Keystrokes - [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html) / [aycy MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+- CPS Counter/Keystrokes - [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html) / [Aycy MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - Clear chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Combo Counter - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
 - Coordinates - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns Coords Hud](https://download.powns.dev/coordsmod189)
@@ -75,11 +75,11 @@
 - Direction Mod - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
 - Enchant Glint - [Powns Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 - FOV Changer - [Sk1er Patcher (/fov)](https://sk1er.club/mods/patcher)
-- FPS Counter - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [aycy MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+- FPS Counter - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Aycy MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - Fullbright - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Ghost Liquid Fix - [Powns Lava Fix](https://download.powns.dev/lavafix189)
 - Hit Color - [aycy's Damage Tint](https://www.youtube.com/watch?v=ZK1C8iThJAA)
-- Hitboxes - F3 + B / [Sk1er Old Animations (adds back 1.7 style hitboxes)](https://sk1er.club/beta) / [aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
+- Hitboxes - F3 + B / [Sk1er Old Animations (adds back 1.7 style hitboxes)](https://sk1er.club/beta) / [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 - Inventory Blur - [tterrag Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/2665186)
 - Ingame Server Switcher - [Canalex](https://www.youtube.com/watch?v=04EangMQd7I) / [Sk1er Patcher (currently logs you out)](https://sk1er.club/mods/patcher)
 - Item Counter - [Sk1er Patcher](https://sk1er.club/mods/patcher)
@@ -93,10 +93,10 @@
 - Nick Hider - [Sk1er NickHider](https://www.sk1er.club/mods/nick_hider)
 - Pack Display - [ResourcePack Display by filip](https://github.com/1fxe/Resource-Pack-Display/releases/tag/1.2)
 - Particle Mod - [Dewgs](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s)
-- Ping HUD - [Senoe's Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [aycy MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+- Ping HUD - [Senoe's Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [Aycy MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - Potion Status - [Powns PotionHud](https://download.powns.dev/potionhud189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
 - Reach Display - [Dewgs](https://www.youtube.com/watch?v=myQKoGnCjxY)
-- ResourcePack 24 - [Official Mod](https://resourcepacks24.de/texturepack-mod) / [aycy Resource Pack Manager (Only adds ability to make folders)](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+- ResourcePack 24 - [Official Mod](https://resourcepacks24.de/texturepack-mod) / [Aycy Resource Pack Manager (Only adds ability to make folders)](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - Saturation - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Scoreboard - [Canelex & Powns](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - Server Address HUD - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
@@ -130,7 +130,7 @@
 ## Credits 
 Huge credits to:
 - [Regex](https://regex.rest/) because I took your pictures! 
-- [Microcontrollers](https://github.com/MicrocontrollersDev/) for giving me permission to steal his stuff and for contributing
+- [Microcontrollers](https://github.com/MicrocontrollersDev/) for giving me permission to steal his stuff and for contributing and for monkey
 - [Systemless](https://github.com/SystemlessDev) for being Systemless (and sending a link to stackedit.io) 
 
 ## Monkey
