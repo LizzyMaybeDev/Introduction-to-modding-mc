@@ -12,7 +12,7 @@
 
 - Open minecraft launcher and check if forge's profile is there, if not then you can create it ![4](https://regex.rest/media/forgefordummies/4.png)
 - Now that we're done with forge you can press windows+r and type %appdata% and open the .minecraft folder, then create a folder called "mods" if it isnt there already
-
+- Then put the mods you download inside that folder and start minecraft.
 
 ## Recommended Mods
 - [**OptiFine**](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) - General visual and performance enhancing mod.
