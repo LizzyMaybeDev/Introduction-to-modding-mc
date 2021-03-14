@@ -122,7 +122,7 @@
 - **Toggle Sneak** - [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
 - **Toggle Sprint** - [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
 - **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
-- **Zoom** - [sp614x's OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5.jar) / [Sk1er's Patcher](https://sk1er.llc/mods/patcher) (tweaks Optifine's)
+- **Zoom** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) / [Sk1er's Patcher](https://sk1er.llc/mods/patcher) (tweaks Optifine's)
 - **Compact Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **24 Hour Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
