@@ -119,7 +119,7 @@
 - TeamSpeak Mod - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - MumbleLink - [snipingcoward MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154)
 
-## Skyblock Mods
+## Recommended Skyblock Mods
 - [Biscuit SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest) - A mod with a bunch of QOL features for Skyblock. Version 1.6 is currently in development that will add more modern features.
 - [Moulberry NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases) - This mod provides even more customization than SBA does and improves gameplay significantly. Version 2.0 is currently in development and can be downloaded on their [discord](https://discord.gg/moulberry) which adds many more features such as experimentation table solvers and fairy soul finder.
 - [Sychic & LilySkytils](https://github.com/Skytils/SkytilsMod/releases/) - This mod provides many QOL features, along with dungeon specific features such as solvers, and waypoints for diana's burrows and relics.
