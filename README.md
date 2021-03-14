@@ -62,7 +62,21 @@
 - **1.8.9 TcpNoDelay** - Useless as 1.8.1 and above already has this enabled. This mod will only work on 1.8.0 and below.
 - [**Vanilla Enhancements**](https://sk1er.llc/mods/patcher) - Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature its also unmaintained and abandoned which is why the chat tabs are broken and never getting fixed. Instead [**Patcher**](https://sk1er.llc/mods/patcher) takes some of its best features and fixes them.
 - **Inventory and Mouse Tweaks** - Many players get these mods to help sort their inventories in Skyblock, however they are both bannable and are not advised.
-
+- [**MouseDelayFix**](https://sk1er.llc/mods/patcher)  - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**MouseBindFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**CaseCommands**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**CommandPatcher**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**compactChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) has a new improved rewrite of it.
+- [**CrossChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**Frames+**](https://sk1er.llc/mods/patcher) - Horrible mod that used to just break performance and only had a couple of good features which [Patcher](https://sk1er.llc/mods/patcher) now takes continuation of & improves upon them.
+- [**ItemOptimizations**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**ResourceExploitFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**WindowedFullscreen**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**CleanView**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**FastChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**MemoryFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it and improves upon some of its features.
+- [**NoCloseMyChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**VoidChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
 ## Features you might be looking for - Mods
 
 - **Armor Status** - [Powns ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
