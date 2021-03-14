@@ -22,6 +22,7 @@
 - [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM) - This is the best version of resource pack manager as the resource pack organizer Chylex made had some issues with custom sky.
 - [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) - A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod).
 - [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll) - For GUI Auto users. Allows tooltips to be scrolled through or moved left/right.
+- [**Ingame Audio Device Switcher**](https://github.com/dreamhopping/AudioSwitcher/releases/tag/1.0.0) - A mod for 1.8.9 and 1.12.2 that lets you choose your sound output device, without having to restart your game!
 - And you can always check [**sk1er.club**](https://sk1er.llc) for the latest sk1er llc/partners mods.
 
 ## Mods that you may have not heard of
@@ -41,6 +42,7 @@
 - [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3071182) - Gives the controls menu a new UI allowing for easier editing and viewing.
 - [**Smooth Scrolling Everywhere**](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files/2895468) - Makes scrolling in menus much smoother and much less clunky.
 - [**Popup Events**](https://sk1er.club/mods/popup_events) - Allows for accepting or denying requests on Hypixel much more easily.
+- [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0) - A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected
 
 ## Mods you should avoid - Alternatives
 
