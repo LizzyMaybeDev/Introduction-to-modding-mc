@@ -57,7 +57,7 @@
 - **Modcore Container** - was used to allow players to try out [Modcore](https://sk1er.club/modcore) before it was a thing, but now modcore is auto installed with all [Sk1er Mods](https://sk1er.club/)/Partnered developer's mods and in any mod that contains it.
 - **BetterChat** - Overwrites the chat, hopefully getting a rewrite soon as the developer promised.
 - **BetterFPS** - Useless and can cause a LOT of [issues](https://twitter.com/asbythh/status/1260072556989644800?s=20) as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
-- **TexFix** - Useless unless you have a big modpack and can barely lower memory usage. It can also make textures become 2D.
+- **TexFix** - Useless unless you have a big modpack (50 or more mods) and can barely lower memory usage. contrary to popular belief, this mod CANNOT improve fps as for obvious reasons. It can also make textures become 2D.
 - **FoamFix** - The 1.8.9 version is a useless and hacky mod. However, the 1.12.2 version is fine.
 - **1.8.9 TcpNoDelay** - Useless as 1.8.1 and above already has this enabled. This mod will only work on 1.8.0 and below.
 - [**Vanilla Enhancements**](https://sk1er.llc/mods/patcher) - Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature its also unmaintained and abandoned which is why the chat tabs are broken and never getting fixed. Instead [**Patcher**](https://sk1er.llc/mods/patcher) takes some of its best features and fixes them.
