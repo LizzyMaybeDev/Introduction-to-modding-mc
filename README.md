@@ -78,6 +78,7 @@
 - [**NoCloseMyChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
 - [**VoidChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
 - [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189) - The developer is known for making bannable mods and i wouldnt recommend any of his other stuff as his reputation is ruined, the togglesprint had the cheat KeepSprint.
+
 ## Features you might be looking for - Mods
 
 - **Armor Status** - [Powns ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
@@ -106,7 +107,7 @@
 - **JustEnoughItems** - [Mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/2431977)
 - **Keystrokes Mod** - [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Levelhead** - [Sk1er's Levelhead](https://sk1er.club/mods/level_head)
-- **MiniMap** (!!! Bannable on Hypixel !!!) - [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
+- **MiniMap** (!!! Bannable on Hypixel !!!) - [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
 - **Motion Blur** - [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
 - **Nick Hider** - [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
 - **Pack Display** - [ResourcePack Display by filip](https://github.com/1fxe/Resource-Pack-Display/releases/tag/1.2) / [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk)
@@ -133,17 +134,29 @@
 - **Chat Opacity** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Chat Size** - [Moulberry's Hychat](https://discord.gg/moulberry)
 - **Replay Mod** - [Replay Mod](https://www.replaymod.com/download/)
-- **Schematica Mod** - [Lunatrius Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147)
+- **Schematica Mod** - [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147)
 - **TeamSpeak Mod** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **MumbleLink** - [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154)
 
 ## Recommended Skyblock Mods
-- [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest) - A mod with a bunch of QOL features for Skyblock. Version 1.6 is currently in development that will add more modern features.
-- [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases) - This mod provides even more customization than SBA does and improves gameplay significantly. Version 2.0 is currently in development and can be downloaded on their [discord](https://discord.gg/moulberry) which adds many more features such as experimentation table solvers and fairy soul finder.
-- [Sychic & LilySkytils](https://github.com/Skytils/SkytilsMod/releases/) - This mod provides many QOL features, along with dungeon specific features such as solvers, and waypoints for diana's burrows and relics.
-- [Danker's Skyblock Mod](https://github.com/bowser0000/SkyblockMod/) - Provides some dungeon solvers that Skytils is missing as well as some other minor game improvements.
-- [Cow's Cowlection](https://github.com/cow-mc/Cowlection/releases/) - Mainly known for its dungeon party finder helper, this mod adds more miscelaneous features.
-- [DJtheRedstoner's YetAnotherSkyblockMod](https://github.com/DJtheRedstoner/YetAnotherSkyblockMod/releases/tag/v1.3) - Allows for toggling certain features of other mods while in skyblock to remove unnecessary clutter.
+- [**Biscuit's SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest) - A mod with a bunch of QOL features for Skyblock. Version 1.6 is currently in development that will add more modern features.
+- [**Moulberry's NotEnoughUpdates**](https://github.com/Moulberry/NotEnoughUpdates/releases) - This mod provides even more customization than SBA does and improves gameplay significantly. Version 2.0 is currently in development and can be downloaded on their [discord](https://discord.gg/moulberry) which adds many more features such as experimentation table solvers and fairy soul finder.
+- [**Sychic & Lily's Skytils**](https://github.com/Skytils/SkytilsMod/releases/) - This mod provides many QOL features, along with dungeon specific features such as solvers, and waypoints for diana's burrows and relics.
+- [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/) - Provides some dungeon solvers that Skytils is missing as well as some other minor game improvements.
+- [**Cow's Cowlection**](https://github.com/cow-mc/Cowlection/releases/) - Mainly known for its dungeon party finder helper, this mod adds more miscelaneous features.
+- [**DJtheRedstoner's YetAnotherSkyblockMod**](https://github.com/DJtheRedstoner/YetAnotherSkyblockMod/releases/tag/v1.3) - Allows for toggling certain features of other mods while in skyblock to remove unnecessary clutter.
+
+## Common Crashes [WIP]
+- **Connected textures** - OptiFine 1.8.9 currently has an issue with connected textures causing crashes. Only "Fancy" is effected, so use "Fast" instead.
+- **5Zig** - The old 5Zig can cause a lot of issues due to it no longer being maintained. It is recommended that you switch to [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) instead.
+- **ModCore/ModCore Container** - Please refrain from manually attempting to install ModCore unless instructed to. Should your ModCore installation become corrupt, just delete the files containing it.
+- **Config corruption** - On the off-chance that one of your config files become corrupted, simply delete the config and relaunch Minecraft. A new, working config file will be created.
+- **Incompatible mods** - Some mods may be incompatible with each other. These are usually the result of one (or both) of the mods being poorly made. Please check if there are better alternatives.
+
+## Ways to Prevent Crashing [WIP]
+- **Update your mods** - Always keep your mods up to date! It is important to always keep your mods to the latest so that you always have the latest fixes.
+- **Don't download a mod folder** - While there is nothing wrong with downloading the mod folder, it is wrong to just blindly use them. First you should check which of the mods in the folder you actually want/need, and then make sure that they are updated to the latest version.
+- **Don't use bad mods** - Some examples of bad mods are Labymod, Spiderfrog's OAM, Orange Marshall mods, FoamFix, TexFix, and BetterFps. There are many mods that are poorly made and have better alternatives, and so it is best to avoid them.
 
 ## Credits 
 Huge credits to:
