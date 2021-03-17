@@ -117,7 +117,7 @@
 - **Reach Display** - [Dewgs's ReachDisplay](https://www.youtube.com/watch?v=myQKoGnCjxY)
 - **ResourcePack** - [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - **Saturation** - [RoccoDev's  5Zig Reborn](https://5zigreborn.eu/)
-- **Scoreboard** - [Canelex & Powns Revamped Sidebar](https://www.youtube.com/watch?v=cn9VvT43yRs)
+- **Scoreboard** - [Canelex & Powns Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - **Server Address HUD** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
 - **ShinyPots** - [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 - **Stopwatch** - [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073)
