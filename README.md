@@ -14,6 +14,10 @@
 - Now that we're done with forge you can press windows+r and type %appdata% and open the .minecraft folder, then create a folder called "mods" if it isnt there already
 - Then put the mods you download inside that folder and start minecraft.
 
+## Note
+- **Check all the options a mod has!** - Many people randomly turn on all features and then complain to the mod developer saying they don't want that feature on. It is up to the user to look through and test each setting to see what they do instead of bothering the mod developer about it.
+- **Do not download random mods** - If you want to download mods, whether it be from this list or externally, do some reaserch into what it actually does and if you want it. Many people download old, broken mod folders that cause issues and have a bunch of mods that they aren't even using but are killing their performance. Please only get mods that you know you want and make sure to keep them updated.
+
 ## Recommended Mods
 - [**OptiFine**](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) - General visual and performance enhancing mod.
 - [**Patcher**](https://sk1er.llc/mods/patcher) - If you're wondering what patcher does check [**this**](https://github.com/LunaNotdev/Patcher-Explanation/blob/main/README.md) thing I've made with all of its features, it's essentially a performance mod filled with bug fixes and quality of life features - a must have in every forge folder.
