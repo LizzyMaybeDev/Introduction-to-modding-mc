@@ -160,8 +160,9 @@
 
 ## Ways to Prevent Crashing [WIP]
 - **Update your mods** - Always keep your mods up to date! It is important to always keep your mods to the latest so that you always have the latest fixes.
-- **Don't download a mod folder** - While there is nothing wrong with downloading the mod folder, it is wrong to just blindly use them. First you should check which of the mods in the folder you actually want/need, and then make sure that they are updated to the latest version.
+- **Don't download a mods folder** - While there is nothing wrong with downloading the mods folder, it is wrong to just blindly use them. First you should check which of the mods in the folder you actually want/need, and then make sure that they are updated to the latest version.
 - **Don't use bad mods** - Some examples of bad mods are Labymod, Spiderfrog's OAM, Orange Marshall mods, FoamFix, TexFix, and BetterFps. There are many mods that are poorly made and have better alternatives, and so it is best to avoid them.
+- **Check what you use** - In some cases people use mods they dont really need, for example weird mods they downloaded from the hypixel forums that they dont know what the use for them is and sometimes its plain malware so check what you download and becareful since those mods might be the ones crashing your game.
 
 ## Credits 
 Huge credits to:
