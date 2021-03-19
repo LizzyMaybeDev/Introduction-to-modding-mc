@@ -10,7 +10,7 @@
 - Run it to install forge  
 ![3](https://regex.rest/media/forgefordummies/3.png)
 
-- Open minecraft launcher and check if forge's profile is there, if not then you can create it ![4](https://regex.rest/media/forgefordummies/4.png)
+- Open minecraft launcher and check if forge's profile is there, if not then you can create it ![image](https://user-images.githubusercontent.com/74936369/111808098-b8d7bf00-88e4-11eb-8a2d-60e93b1406a5.png)
 - Now that we're done with forge you can press windows+r and type %appdata% and open the .minecraft folder, then create a folder called "mods" if it isnt there already
 - Then put the mods you download inside that folder and start minecraft.
 
