@@ -172,3 +172,4 @@ Huge credits to:
 - [ProudMuslim](https://github.com/proudmuslim-dev) for contributing and fixing my english
 
 ## Monkey
+[SkyClient](https://hypixel.net/threads/3731617) installs all the good Hypixel Skyblock mods for you
