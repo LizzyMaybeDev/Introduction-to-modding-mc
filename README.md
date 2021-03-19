@@ -60,7 +60,7 @@
 - [**ResourcePack Organizer**](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Chylex - overwrites the custom sky for some bizarre reason lmao and he has no plans to update old versions. Instead you can use [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Aycy.
 - **Modcore Container** - was used to allow players to try out [Modcore](https://sk1er.club/modcore) before it was a thing, but now modcore is auto installed with all [Sk1er Mods](https://sk1er.club/)/Partnered developer's mods and in any mod that contains it.
 - **BetterChat** - Overwrites the chat, hopefully getting a rewrite soon as the developer promised.
-- **BetterFPS** - Useless and can cause a LOT of [issues](https://twitter.com/asbythh/status/1260072556989644800?s=20) as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
+- **BetterFPS** - Useless and can cause a LOT of issues, [example1](https://twitter.com/asbythh/status/1260072556989644800?s=20), [example2](https://streamable.com/rthpah), [example3](https://streamable.com/bmnum3), as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
 - **TexFix** - Useless unless you have a big modpack (50 or more mods) and can barely lower memory usage. contrary to popular belief, this mod CANNOT improve fps as for obvious reasons. It can also make textures become 2D.
 - **FoamFix** - The 1.8.9 version is a useless and hacky mod. However, the 1.12.2 version is fine.
 - **1.8.9 TcpNoDelay** - Useless as 1.8.1 and above already has this enabled. This mod will only work on 1.8.0 and below.
