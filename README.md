@@ -20,7 +20,7 @@
 
 ## Recommended Mods
 - [**OptiFine**](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) - General visual and performance enhancing mod.
-- [**Patcher**](https://sk1er.llc/mods/patcher) - If you're wondering what patcher does check [**this**](https://github.com/LunaNotdev/Patcher-Explanation/blob/main/README.md) thing I've made with all of its features, it's essentially a performance mod filled with bug fixes and quality of life features - a must have in every forge folder.
+- [**Patcher**](https://sk1er.llc/mods/patcher) - If you're wondering what patcher does check [**this**](https://github.com/LunaNotdev/Patcher-Explanation/blob/main/README.md) thing I've made with all of its features, it's essentially a performance mod filled with bug fixes and quality of life features - a must have in every mods folder.
 - [**Old Animations Mod**](https://sk1er.club/beta) - This one is sk1er's OAM which is currently in beta and it already has an entire rewrite coming soon, its more accurate than orange's OAM and Spiderfrog's OAM and made to be compatible with other mods.
 - [**Powns Togglesprint**](https://download.powns.dev/togglesneak189) - Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant.
 - [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM) - This is the best version of resource pack manager as the resource pack organizer Chylex made had some issues with custom sky.
