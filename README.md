@@ -173,4 +173,5 @@ Huge credits to:
 - [ProudMuslim](https://github.com/proudmuslim-dev) for contributing and fixing my english
 
 ## Monkey
-[SkyClient](https://hypixel.net/threads/3731617) installs all the good Hypixel Skyblock mods for you
+- [SkyClient](https://hypixel.net/threads/3731617) installs all the good Hypixel Skyblock mods for you
+- Modcore 2.0 Video leaks and all images of private and public information about it. before i show these things be aware that im in no way shape or form responsible nor do i condone leaking private information of projects of any sort, i am free of any responsibility from any individual(s) sharing this information im about to show you, the individual(s) whom have presenting this piece of information have agreed that i protect their privacy at all cost to not share or show other's any kind of association between us, by clicking on the link you agree that you may not post, share or claim any of what you might see as yours [Link](https://zws.im/󠁴󠁦󠁱󠁭󠁰󠁡󠁩)
