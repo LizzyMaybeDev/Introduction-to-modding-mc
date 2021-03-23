@@ -70,7 +70,7 @@
 - [**MouseBindFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
 - [**CaseCommands**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
 - [**CommandPatcher**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**compactChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) has a new improved rewrite of it.
+- [**CompactChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) has a new improved rewrite of it.
 - [**CrossChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
 - [**Frames+**](https://sk1er.llc/mods/patcher) - Horrible mod that used to just break performance and only had a couple of good features which [Patcher](https://sk1er.llc/mods/patcher) now takes continuation of & improves upon them.
 - [**ItemOptimizations**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
@@ -81,7 +81,7 @@
 - [**MemoryFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it and improves upon some of its features.
 - [**NoCloseMyChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
 - [**VoidChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- **[Fullbright](https://sk1er.llc/mods/patcher) - [Patcher]((https://sk1er.llc/mods/patcher) already replaces it.
+- [**Fullbright**](https://sk1er.llc/mods/patcher) - [Patcher]((https://sk1er.llc/mods/patcher) already replaces it.
 - [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189) - The developer is known for making bannable mods and i wouldnt recommend any of his other stuff as his reputation is ruined, the togglesprint had the cheat KeepSprint.
 
 ## Features you might be looking for - Mods
