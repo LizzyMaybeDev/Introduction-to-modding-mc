@@ -81,7 +81,7 @@
 - [**MemoryFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it and improves upon some of its features.
 - [**NoCloseMyChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
 - [**VoidChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**Fullbright**](https://sk1er.llc/mods/patcher) - [Patcher]((https://sk1er.llc/mods/patcher) already replaces it.
+- [**Fullbright**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
 - [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189) - The developer is known for making bannable mods and i wouldnt recommend any of his other stuff as his reputation is ruined, the togglesprint had the cheat KeepSprint.
 
 ## Features you might be looking for - Mods
