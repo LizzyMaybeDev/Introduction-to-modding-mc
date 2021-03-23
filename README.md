@@ -66,21 +66,22 @@
 - **1.8.9 TcpNoDelay** - Useless as 1.8.1 and above already has this enabled. This mod will only work on 1.8.0 and below.
 - [**Vanilla Enhancements**](https://sk1er.llc/mods/patcher) - Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature its also unmaintained and abandoned which is why the chat tabs are broken and never getting fixed. Instead [**Patcher**](https://sk1er.llc/mods/patcher) takes some of its best features and fixes them.
 - **Inventory and Mouse Tweaks** - Many players get these mods to help sort their inventories in Skyblock, however they are both bannable and are not advised.
-- [**MouseDelayFix**](https://sk1er.llc/mods/patcher)  - [Patcher](https://sk1er.llc/mods/patcher) already has it.
-- [**MouseBindFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
-- [**CaseCommands**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
-- [**CommandPatcher**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**MouseDelayFix**](https://sk1er.llc/mods/patcher)  - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+- [**MouseBindFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+- [**CaseCommands**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+- [**CommandPatcher**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
 - [**compactChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) has a new improved rewrite of it.
-- [**CrossChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**CrossChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
 - [**Frames+**](https://sk1er.llc/mods/patcher) - Horrible mod that used to just break performance and only had a couple of good features which [Patcher](https://sk1er.llc/mods/patcher) now takes continuation of & improves upon them.
-- [**ItemOptimizations**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
-- [**ResourceExploitFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
-- [**WindowedFullscreen**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
-- [**CleanView**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
-- [**FastChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
-- [**MemoryFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it and improves upon some of its features.
-- [**NoCloseMyChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
-- [**VoidChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has it.
+- [**ItemOptimizations**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+- [**ResourceExploitFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has a better improved version of it.
+- [**WindowedFullscreen**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+- [**CleanView**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+- [**FastChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+- [**MemoryFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it and improves upon some of its features.
+- [**NoCloseMyChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+- [**VoidChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+- **[Fullbright](https://sk1er.llc/mods/patcher) - [Patcher]((https://sk1er.llc/mods/patcher) already replaces it.
 - [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189) - The developer is known for making bannable mods and i wouldnt recommend any of his other stuff as his reputation is ruined, the togglesprint had the cheat KeepSprint.
 
 ## Features you might be looking for - Mods
