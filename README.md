@@ -19,15 +19,15 @@
 - **Do not download random mods** - If you want to download mods, whether it be from this list or externally, do some reaserch into what it actually does and if you want it. Many people download old, broken mod folders that cause issues and have a bunch of mods that they aren't even using but are killing their performance. Please only get mods that you know you want and make sure to keep them updated.
 
 ## Recommended Mods
-- [**OptiFine**](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) - General visual and performance enhancing mod.
+- [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) - General visual and performance enhancing mod.
 - [**Patcher**](https://sk1er.llc/mods/patcher) - If you're wondering what patcher does check [**this**](https://github.com/LunaNotdev/Patcher-Explanation/blob/main/README.md) thing I've made with all of its features, it's essentially a performance mod filled with bug fixes and quality of life features - a must have in every mods folder.
-- [**Old Animations Mod**](https://sk1er.club/beta) - This one is sk1er's OAM which is currently in beta and it already has an entire rewrite coming soon, its more accurate than orange's OAM and Spiderfrog's OAM and made to be compatible with other mods.
+- [**Old Animations Mod**](https://sk1er.club/beta) - This one is Sk1er's OAM which is currently in beta and it already has an entire rewrite coming soon, its more accurate than orange's OAM and Spiderfrog's OAM and made to be compatible with other mods.
 - [**Powns Togglesprint**](https://download.powns.dev/togglesneak189) - Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant.
 - [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM) - This is the best version of resource pack manager as the resource pack organizer Chylex made had some issues with custom sky.
 - [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) - A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod).
 - [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll) - For GUI Auto users. Allows tooltips to be scrolled through or moved left/right.
 - [**Ingame Audio Device Switcher**](https://github.com/dreamhopping/AudioSwitcher/releases/tag/1.0.0) - A mod for 1.8.9 and 1.12.2 that lets you choose your sound output device, without having to restart your game!
-- And you can always check [**sk1er.club**](https://sk1er.llc) for the latest sk1er llc/partners mods.
+- And you can always check [**sk1er.club**](https://sk1er.llc) for the latest Sk1er LLC/partners mods.
 
 ## Mods that you may have not heard of
 
@@ -129,7 +129,7 @@
 - **Toggle Sneak** - [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
 - **Toggle Sprint** - [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
 - **Waypoints** - [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
-- **Zoom** - [sp614x's OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar) / [Sk1er's Patcher](https://sk1er.llc/mods/patcher) (tweaks Optifine's)
+- **Zoom** - [https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) / [Sk1er's Patcher](https://sk1er.llc/mods/patcher) (tweaks Optifine's)
 - **Compact Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Text Shadow** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **24 Hour Timestamps** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
@@ -154,7 +154,7 @@
 ## Common Crashes [WIP]
 - **Connected textures** - OptiFine 1.8.9 currently has an issue with connected textures causing crashes. Only "Fancy" is effected, so use "Fast" instead.
 - **5Zig** - The old 5Zig can cause a lot of issues due to it no longer being maintained. It is recommended that you switch to [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) instead.
-- **Having ModCore in your mods folder** - Please refrain from putting ModCore in your mods folder as it can cause crashes, it is not the actual way to install ModCore and might cause issues, if you have a [sk1er llc](https://sk1er.llc) mod(s)/partnered mod(s) you shouldnt worry about the installation of ModCore as it installs itself
+- **Having ModCore in your mods folder** - Please refrain from putting ModCore in your mods folder as it can cause crashes, it is not the actual way to install ModCore and might cause issues, if you have a [Sk1er LLC](https://sk1er.llc) mod(s)/partnered mod(s) you shouldnt worry about the installation of ModCore as it installs itself
 - **Config corruption** - On the off-chance that one of your config files become corrupted, simply delete the config and relaunch Minecraft. A new, working config file will be created.
 - **Incompatible mods** - Some mods may be incompatible with each other. These are usually the result of one (or both) of the mods being poorly made. Please check if there are better alternatives.
 - **Using same features with different mods** - as a result of lazy developers some mods might overwrite entire classes and if two mods overwrite one class it'll  crash and for example having two old animations mods is useless and will cause issues with the game.
