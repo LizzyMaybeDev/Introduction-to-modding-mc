@@ -46,7 +46,7 @@
 - [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3071182) - Gives the controls menu a new UI allowing for easier editing and viewing.
 - [**Smooth Scrolling Everywhere**](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files/2895468) - Makes scrolling in menus much smoother and much less clunky.
 - [**Popup Events**](https://sk1er.club/mods/popup_events) - Allows for accepting or denying requests on Hypixel much more easily.
-- [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0) - A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected
+- [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0) - A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected.
 - [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065) - An overall awesome chat mod that lets you add smooth animations for messages and repositoning chat very easily as well as changing chat width and width and maybe more!
 
 ## Mods you should avoid - Alternatives
