@@ -39,7 +39,7 @@
 - [**Damage Tint**](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/) - A mod change the damage tint when you hit someone by Aycy.
 - [**Block Overlay**](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/) - A mod to change the block outline when you hover over blocks with complete customizability over the outline and a very nice unique GUI with live preview. Most people use the old powns continuation of the mod but the original mod has been updated.
 - [**DJPerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4) - A remake of canalex's perspective mod with bugfixes.
-- [**NotEnoughUpdates**](https://moulberry.github.io/projects) (skyblock mod) - A mod that provides an NEI interface for searching and viewing item crafting recipes, information & more in Hypixel Skyblock, as well as other QOL features.
+- [**NotEnoughUpdates**](https://moulberry.github.io/projects) (skyblock mod) - A mod that provides an NEI interface for searching and viewing item crafting recipes, information & more on hypixel skyblock, as well as other QOL features.
 - [**Quickplay**](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/) - A mod to quickly join hypixel games & sort them to keybinds.
 - [**ReAuth**](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385) - Fixes the problem of having to restart your client when your session is invalid & more.
 - [**LinuxLWJGLKeyFix**](https://github.com/Vonr/LinuxLWJGLKeyFix) - Fixes a LWJGL bug causing incorrect registration of Shift+2 and Shift+6 on Linux systems.
