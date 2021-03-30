@@ -21,7 +21,7 @@
 ## Recommended Mods
 | Name | Description | Developer |
 | --- | --- | --- |
-| [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) | General visual and performance enhancing mod. | sp614x |
+| [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) | General visual and performance enhancing mod. | [sp614x](https://github.com/sp614x/) |
 | [**Patcher**](https://sk1er.llc/mods/patcher)| A mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements/optimizations, and tons of Vanilla bug fixes.| [Asbyth](https://github.com/Asbyth) ([Sk1er LLC](https://github.com/sk1erllc/))|
 | [**Old Animations Mod**](https://sk1er.club/beta) | Currently in beta and it already has an entire rewrite coming soon, its more accurate than any other OAM and made to be compatible with other mods. | [Llamalad7](https://github.com/Llamalad7), [Moulberry](https://moulberry.codes) ([Sk1er LLC](https://github.com/sk1erllc/))|
 | [**Powns Togglesprint**](https://download.powns.dev/togglesneak189) [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint) | Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant. | [Powns](https://github.com/pownsgg), [Lily](https://github.com/My-Name-Is-Jeff/)
