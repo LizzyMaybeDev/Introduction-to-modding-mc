@@ -56,38 +56,40 @@
 
 ## Mods you should avoid - Alternatives
 
-- [**LabyMod**](https://github.com/MicrocontrollersDev/LabyMod-Alternatives) - LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
-- [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives) - SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore violates [Mojang's EULA](https://account.mojang.com/documents/minecraft_eula), and has a ton of problems causing crashes and visual glitches, and the developer steals stuff and is an all around terrible person pepelaugh.
-- **SkyblockCatia** - Causes a ton of incompatibilities, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
-- **Skypixel** - Unmaintaned and no longer works for Skyblock, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
-- [**SpiderFrog's OAM**](https://sk1er.club/beta) - has over 7mb of bloat and causes crashes. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta) which is currently in beta.
-- [**Orange Marshall's OAM**](https://sk1er.club/beta) - doesnt look like 1.7, missing animations like old sneaking animation, overwrites many things unnecessarily causing other mods to break, like OptiFine's custom item texture. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta) which is currently in beta.
-- **PlayerAPI** - This used to be a requirement for most togglesneaks but fortunately enough developers now know how access transformers actually work and aren't lazy. 
-- [**ResourcePack Organizer**](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Chylex - overwrites the custom sky for some bizarre reason lmao and he has no plans to update old versions. Instead you can use [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Aycy.
-- **Modcore Container** - was used to allow players to try out [Modcore](https://sk1er.club/modcore) before it was a thing, but now modcore is auto installed with all [Sk1er Mods](https://sk1er.club/)/Partnered developer's mods and in any mod that contains it.
-- **BetterFPS** - Useless and can cause a LOT of issues, [example1](https://twitter.com/asbythh/status/1260072556989644800?s=20), [example2](https://streamable.com/rthpah), [example3](https://streamable.com/bmnum3), as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
-- **TexFix** - Useless unless you have a big modpack (50 or more mods) and can barely lower memory usage. contrary to popular belief, this mod CANNOT improve fps as for obvious reasons. It can also make textures become 2D.
-- **FoamFix** - The 1.8.9 version is a useless and hacky mod. However, the 1.12.2 version is fine.
-- **1.8.9 TcpNoDelay** - Useless as 1.8.1 and above already has this enabled. This mod will only work on 1.8.0 and below.
-- [**Vanilla Enhancements**](https://sk1er.llc/mods/patcher) - Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature its also unmaintained and abandoned which is why the chat tabs are broken and never getting fixed. Instead [**Patcher**](https://sk1er.llc/mods/patcher) takes some of its best features and fixes them.
-- **Inventory and Mouse Tweaks** - Many players get these mods to help sort their inventories in Skyblock, however they are both bannable and are not advised.
-- [**MouseDelayFix**](https://sk1er.llc/mods/patcher)  - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**MouseBindFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**CaseCommands**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**CommandPatcher**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**CompactChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) has a new improved rewrite of it.
-- [**CrossChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**Frames+**](https://sk1er.llc/mods/patcher) - Horrible mod that used to just break performance and only had a couple of good features which [Patcher](https://sk1er.llc/mods/patcher) now takes continuation of & improves upon them.
-- [**ItemOptimizations**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**ResourceExploitFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already has a better improved version of it.
-- [**WindowedFullscreen**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**CleanView**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**FastChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**MemoryFix**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it and improves upon some of its features.
-- [**NoCloseMyChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**VoidChat**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**Fullbright**](https://sk1er.llc/mods/patcher) - [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-- [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189) - The developer is known for making bannable mods and i wouldnt recommend any of his other stuff as his reputation is ruined, the togglesprint had the cheat KeepSprint.
+| Mod | Reason |
+| --- | --- |
+| [**LabyMod**](https://github.com/MicrocontrollersDev/LabyMod-Alternatives) | LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
+| [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives) | SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore violates [Mojang's EULA](https://account.mojang.com/documents/minecraft_eula), and has a ton of problems causing crashes and visual glitches, and the developer steals stuff and is an all around terrible person pepelaugh.
+| **SkyblockCatia** | Causes a ton of incompatibilities, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
+| **Skypixel** | Unmaintaned and no longer works for Skyblock, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
+| [**SpiderFrog's OAM**](https://sk1er.club/beta) | has over 7mb of bloat and causes crashes. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta) which is currently in beta.
+| [**Orange Marshall's OAM**](https://sk1er.club/beta) | doesnt look like 1.7, missing animations like old sneaking animation, overwrites many things unnecessarily causing other mods to break, like OptiFine's custom item texture. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta) which is currently in beta.
+| **PlayerAPI** | This used to be a requirement for most togglesneaks but fortunately enough developers now know how access transformers actually work and aren't lazy. 
+| [**ResourcePack Organizer**](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Chylex | overwrites the custom sky for some bizarre reason lmao and he has no plans to update old versions. Instead you can use [Resourcepack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Aycy.
+| **Modcore Container** | was used to allow players to try out [Modcore](https://sk1er.club/modcore) before it was a thing, but now modcore is auto installed with all [Sk1er Mods](https://sk1er.club/)/Partnered developer's mods and in any mod that contains it.
+| **BetterFPS** | Useless and can cause a LOT of issues, [example1](https://twitter.com/asbythh/status/1260072556989644800?s=20), [example2](https://streamable.com/rthpah), [example3](https://streamable.com/bmnum3), as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
+| **TexFix** | Useless unless you have a big modpack (50 or more mods) and can barely lower memory usage. contrary to popular belief, this mod CANNOT improve fps as for obvious reasons. It can also make textures become 2D.
+| **FoamFix** | The 1.8.9 version is a useless and hacky mod. However, the 1.12.2 version is fine.
+| **1.8.9 TcpNoDelay** | Useless as 1.8.1 and above already has this enabled. This mod will only work on 1.8.0 and below.
+| [**Vanilla Enhancements**](https://sk1er.llc/mods/patcher) | Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature, unmaintained, abandoned which is why some features are broken and not getting fixed. Instead [Patcher](https://sk1er.llc/mods/patcher) takes some of its best features and fixes them.
+| **Inventory and Mouse Tweaks** | Many players get these mods to help sort their inventories in Skyblock, however they are both bannable and are not advised.
+| [**MouseDelayFix**](https://sk1er.llc/mods/patcher)  | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**MouseBindFix**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**CaseCommands**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**CommandPatcher**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**CompactChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) has a new improved rewrite of it.
+| [**CrossChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**Frames+**](https://sk1er.llc/mods/patcher) | Horrible mod that used to break performance but had some nice features which [Patcher](https://sk1er.llc/mods/patcher) now takes continuation of & improves upon.
+| [**ItemOptimizations**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**ResourceExploitFix**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already has a better improved version of it.
+| [**WindowedFullscreen**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**CleanView**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**FastChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**MemoryFix**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it and improves upon some of its features.
+| [**NoCloseMyChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**VoidChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**Fullbright**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+| [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189) |developer is known for making bannable mods and i wouldnt recommend any of his other stuff as his reputation is ruined, the togglesprint had the cheat KeepSprint.
 
 ## Features you might be looking for - Mods
 
