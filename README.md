@@ -37,22 +37,24 @@
 
 ## Mods that you may have not heard of
 
-- [**Revamped Timechanger**](https://hypixel.net/threads/forge-1-8-9-timechanger-2-2-1-an-improved-timechanger-mod.3574261/) - A mod for changing time client-side.
-- [**ChatTriggers**](https://chattriggers.com/) - ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. In other words, it's a mod that allows you to use javascript for stuff, and has tons of useful modules on their website. Please download the latest stable 1.3.1 release.
-- [**MiniInfo**](https://www.youtube.com/watch?v=9OwPMxBzQog) - Simple mod to display FPS, CPS, and ping by Aycy.
-- [**ResourcePackDisplay**](https://github.com/1fxe/Resource-Pack-Display/releases/) - (Not to be confused with Resourcepack Manager) Display current pack, the mod also has the /rpd random command to randomly choose a pack from your packs folder with detection for incompatible and duplicate packs.
-- [**OnHitParticles**](https://www.youtube.com/watch?v=0PPR_t-qyfw) - A mod to change what particles are shown when you hit someone with great customizability by Aycy.
-- [**Damage Tint**](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/) - A mod change the damage tint when you hit someone by Aycy.
-- [**Block Overlay**](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/) - A mod to change the block outline when you hover over blocks with complete customizability over the outline and a very nice unique GUI with live preview. Most people use the old powns continuation of the mod but the original mod has been updated.
-- [**DJPerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4) - A remake of canalex's perspective mod with bugfixes.
-- [**Quickplay**](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/) - A mod to quickly join hypixel games & sort them to keybinds.
-- [**ReAuth**](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385) - Fixes the problem of having to restart your client when your session is invalid & more.
-- [**LinuxLWJGLKeyFix**](https://github.com/Vonr/LinuxLWJGLKeyFix) - Fixes a LWJGL bug causing incorrect registration of Shift+2 and Shift+6 on Linux systems.
-- [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3071182) - Gives the controls menu a new UI allowing for easier editing and viewing.
-- [**Smooth Scrolling Everywhere**](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files/2895468) - Makes scrolling in menus much smoother and much less clunky.
-- [**Popup Events**](https://sk1er.club/mods/popup_events) - Allows for accepting or denying requests on Hypixel much more easily.
-- [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0) - A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected.
-- [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065) - An overall awesome chat mod that lets you add smooth animations for messages and repositoning chat very easily as well as changing chat width and width and maybe more!
+| Mod | Description |
+| --- | --- |
+| [**Revamped Timechanger**](https://hypixel.net/threads/forge-1-8-9-timechanger-2-2-1-an-improved-timechanger-mod.3574261/) | A mod for changing time client|side.
+| [**ChatTriggers**](https://chattriggers.com/) | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. In other words, it's a mod that allows you to use javascript for stuff, and has tons of useful modules on their website. Please download the latest stable 1.3.1 release.
+| [**MiniInfo**](https://www.youtube.com/watch?v=9OwPMxBzQog) | Simple mod to display FPS, CPS, and ping by Aycy.
+| [**ResourcePackDisplay**](https://github.com/1fxe/Resource-Pack-Display/releases/) | (Not to be confused with Resourcepack Manager) Display current pack, the mod also has the /rpd random command to randomly choose a pack from your packs folder with detection for incompatible and duplicate packs.
+| [**OnHitParticles**](https://www.youtube.com/watch?v=0PPR_t-qyfw) | A mod to change what particles are shown when you hit someone with great customizability by Aycy.
+| [**Damage Tint**](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/) | A mod change the damage tint when you hit someone by Aycy.
+| [**Block Overlay**](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/) | A mod to change the block outline when you hover over blocks with complete customizability over the outline and a very nice unique GUI with live preview. Most people use the old powns continuation of the mod but the original mod has been updated.
+| [**DJPerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4) | A remake of canalex's perspective mod with bugfixes.
+| [**Quickplay**](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/) | A mod to quickly join hypixel games & sort them to keybinds.
+| [**ReAuth**](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385) | Fixes the problem of having to restart your client when your session is invalid & more.
+| [**LinuxLWJGLKeyFix**](https://github.com/Vonr/LinuxLWJGLKeyFix) | Fixes a LWJGL bug causing incorrect registration of Shift+2 and Shift+6 on Linux systems.
+| [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3071182) | Gives the controls menu a new UI allowing for easier editing and viewing.
+| [**Smooth Scrolling Everywhere**](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files/2895468) | Makes scrolling in menus much smoother and much less clunky.
+| [**Popup Events**](https://sk1er.club/mods/popup_events) | Allows for accepting or denying requests on Hypixel much more easily.
+| [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0) | A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected.
+| [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065) | An overall awesome chat mod that lets you add smooth animations for messages and repositoning chat very easily as well as changing chat width and width and maybe more!
 
 ## Mods you should avoid - Alternatives
 
