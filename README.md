@@ -19,15 +19,21 @@
 - **Do not download random mods** - If you want to download mods, whether it be from this list or externally, do some reaserch into what it actually does and if you want it. Many people download old, broken mod folders that cause issues and have a bunch of mods that they aren't even using but are killing their performance. Please only get mods that you know you want and make sure to keep them updated.
 
 ## Recommended Mods
-- [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) - General visual and performance enhancing mod.
-- [**Patcher**](https://sk1er.llc/mods/patcher) - If you're wondering what patcher does check [**this**](https://github.com/LunaNotdev/Patcher-Explanation/blob/main/README.md) thing I've made with all of its features, it's essentially a performance mod filled with bug fixes and quality of life features - a must have in every mods folder.
-- [**Old Animations Mod**](https://sk1er.club/beta) - This one is Sk1er's OAM which is currently in beta and it already has an entire rewrite coming soon, its more accurate than orange's OAM and Spiderfrog's OAM and made to be compatible with other mods.
-- [**Powns Togglesprint**](https://download.powns.dev/togglesneak189) / [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint) - Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant.
-- [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM) - This is the best version of resource pack manager as the resource pack organizer Chylex made had some issues with custom sky.
-- [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) - A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod).
-- [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll) - For GUI Auto users. Allows tooltips to be scrolled through or moved left/right.
-- [**Ingame Audio Device Switcher**](https://github.com/dreamhopping/AudioSwitcher/releases/tag/1.0.0) - A mod for 1.8.9 and 1.12.2 that lets you choose your sound output device, without having to restart your game!
-- And you can always check [**sk1er.club**](https://sk1er.llc) for the latest Sk1er LLC/partners mods.
+| Name | Description | Developer |
+| --- | --- | --- |
+| [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) | General visual and performance enhancing mod. | Spx614|
+| [**Patcher**](https://sk1er.llc/mods/patcher)| A mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements/optimizations, and tons of Vanilla bug fixes.| [Asbyth](https://github.com/Asbyth) ([Sk1er LLC](https://github.com/sk1erllc/))|
+| [**Old Animations Mod**](https://sk1er.club/beta) | Currently in beta and it already has an entire rewrite coming soon, its more accurate than any other OAM and made to be compatible with other mods. | [Llamalad7](https://github.com/Llamalad7), [Moulberry](https://moulberry.codes) ([Sk1er LLC](https://github.com/sk1erllc/))|
+| [**Powns Togglesprint**](https://download.powns.dev/togglesneak189) [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint) | Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant. | [Powns](https://github.com/pownsgg), [Lily](https://github.com/My-Name-Is-Jeff/)
+| [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM) | Manage your resource packs with ease. | [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A)
+| [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod).. | [Cow](https://github.com/cow-mc)
+| [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll) | Scrollable tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip is too long for the screen. | [Sk1er](https://github.com/sk1er/) ([Sk1er LLC](https://github.com/sk1erllc/))
+| [**Ingame Audio Device Switcher**](https://github.com/dreamhopping/AudioSwitcher/releases/tag/1.0.0) | A mod for 1.8.9 and 1.12.2 that lets you choose your sound output device, without having to restart your game! | [Dreamhopping](https://github.com/dreamhopping/)
+
+| More | 
+| --- |
+| And you can always check [**sk1er.club**](https://sk1er.llc) for the latest Sk1er LLC/partners mods.
+
 
 ## Mods that you may have not heard of
 
