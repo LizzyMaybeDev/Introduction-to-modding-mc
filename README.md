@@ -55,7 +55,7 @@
 | [**Popup Events**](https://sk1er.club/mods/popup_events) | Allows for accepting or denying requests on Hypixel much more easily.
 | [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0) | A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected.
 | [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065) | An overall awesome chat mod that lets you add smooth animations for messages and repositoning chat very easily as well as changing chat width and width and maybe more!
-
+| [**Custom Sky mod**](https://www.youtube.com/watch?v=i8ZgEzpqdAM) | Allows you to easily change your custom sky within a GUI |
 ## Mods you should avoid - Alternatives
 
 | Mod | Reason |
