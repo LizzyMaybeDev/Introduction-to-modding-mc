@@ -168,7 +168,7 @@
 | Issue | Explanation |
 | --- | --- |
  **Connected textures** | OptiFine 1.8.9 currently has an issue with connected textures causing crashes. Only "Fancy" is effected, so use "Fast" instead.
- **5Zig** - The old 5Zig can cause a lot of issues due to it no longer being maintained. It is recommended that you switch to [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) instead.
+ **5Zig** | The old 5Zig can cause a lot of issues due to it no longer being maintained. It is recommended that you switch to [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) instead.
  **Having ModCore in your mods folder** | Please refrain from putting ModCore in your mods folder as it can cause crashes, it is not the actual way to install ModCore and might cause issues, if you have a [Sk1er LLC](https://sk1er.llc) mod(s)/partnered mod(s) you shouldnt worry about the installation of ModCore as it installs itself
  **Config corruption** | On the off-chance that one of your config files become corrupted, simply delete the config and relaunch Minecraft. A new, working config file will be created.
  **Incompatible mods** | Some mods may be incompatible with each other. These are usually the result of one (or both) of the mods being poorly made. Please check if there are better alternatives.
