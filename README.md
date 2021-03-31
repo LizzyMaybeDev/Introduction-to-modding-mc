@@ -21,146 +21,148 @@
 ## Recommended Mods
 | Name | Description | Developer |
 | --- | --- | --- |
-| [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) | General visual and performance enhancing mod. | [sp614x](https://github.com/sp614x/) |
-| [**Patcher**](https://sk1er.llc/mods/patcher)| A mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements/optimizations, and tons of Vanilla bug fixes.| [Asbyth](https://github.com/Asbyth) ([Sk1er LLC](https://github.com/sk1erllc/))|
-| [**Old Animations Mod**](https://sk1er.club/beta) | Currently in beta and it already has an entire rewrite coming soon, its more accurate than any other OAM and made to be compatible with other mods. | [Llamalad7](https://github.com/Llamalad7), [Moulberry](https://moulberry.codes) ([Sk1er LLC](https://github.com/sk1erllc/))|
-| [**Powns Togglesprint**](https://download.powns.dev/togglesneak189) [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint) | Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant. | [Powns](https://github.com/pownsgg), [Lily](https://github.com/My-Name-Is-Jeff/)
-| [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM) | Manage your resource packs with ease. | [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A)
-| [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod).. | [Cow](https://github.com/cow-mc)
-| [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll) | Scrollable tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip is too long for the screen. | [Sk1er](https://github.com/sk1er/) ([Sk1er LLC](https://github.com/sk1erllc/))
-| [**Ingame Audio Device Switcher**](https://github.com/dreamhopping/AudioSwitcher/releases/tag/1.0.0) | A mod for 1.8.9 and 1.12.2 that lets you choose your sound output device, without having to restart your game! | [Dreamhopping](https://github.com/dreamhopping/)
+ [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) | General visual and performance enhancing mod. | [sp614x](https://github.com/sp614x/) |
+ [**Patcher**](https://sk1er.llc/mods/patcher)| A mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements/optimizations, and tons of Vanilla bug fixes.| [Asbyth](https://github.com/Asbyth) ([Sk1er LLC](https://github.com/sk1erllc/))|
+ [**Old Animations Mod**](https://sk1er.club/beta) | Currently in beta and it already has an entire rewrite coming soon, its more accurate than any other OAM and made to be compatible with other mods. | [Llamalad7](https://github.com/Llamalad7), [Moulberry](https://moulberry.codes) ([Sk1er LLC](https://github.com/sk1erllc/))|
+ [**Powns Togglesprint**](https://download.powns.dev/togglesneak189) [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint) | Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant. | [Powns](https://github.com/pownsgg), [Lily](https://github.com/My-Name-Is-Jeff/)
+ [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM) | Manage your resource packs with ease. | [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A)
+ [**Cowlection**](https://github.com/cow-mc/Cowlection/releases) | A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod).. | [Cow](https://github.com/cow-mc)
+ [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll) | Scrollable tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip is too long for the screen. | [Sk1er](https://github.com/sk1er/) ([Sk1er LLC](https://github.com/sk1erllc/))
+ [**Ingame Audio Device Switcher**](https://github.com/dreamhopping/AudioSwitcher/releases/tag/1.0.0) | A mod for 1.8.9 and 1.12.2 that lets you choose your sound output device, without having to restart your game! | [Dreamhopping](https://github.com/dreamhopping/)
 
 | More | 
 | --- |
-| And you can always check [**sk1er.club**](https://sk1er.llc) for the latest Sk1er LLC/partners mods.
+ And you can always check [**sk1er.club**](https://sk1er.llc) for the latest Sk1er LLC/partners mods.
 
 
 ## Mods that you may have not heard of
 
 | Mod | Description |
 | --- | --- |
-| [**Revamped Timechanger**](https://hypixel.net/threads/forge-1-8-9-timechanger-2-2-1-an-improved-timechanger-mod.3574261/) | A mod for changing time client|side.
-| [**ChatTriggers**](https://chattriggers.com/) | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. In other words, it's a mod that allows you to use javascript for stuff, and has tons of useful modules on their website. Please download the latest stable 1.3.1 release.
-| [**MiniInfo**](https://www.youtube.com/watch?v=9OwPMxBzQog) | Simple mod to display FPS, CPS, and ping by Aycy.
-| [**ResourcePackDisplay**](https://github.com/1fxe/Resource-Pack-Display/releases/) | (Not to be confused with Resourcepack Manager) Display current pack, the mod also has the /rpd random command to randomly choose a pack from your packs folder with detection for incompatible and duplicate packs.
-| [**OnHitParticles**](https://www.youtube.com/watch?v=0PPR_t-qyfw) | A mod to change what particles are shown when you hit someone with great customizability by Aycy.
-| [**Damage Tint**](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/) | A mod change the damage tint when you hit someone by Aycy.
-| [**Block Overlay**](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/) | A mod to change the block outline when you hover over blocks with complete customizability over the outline and a very nice unique GUI with live preview. Most people use the old powns continuation of the mod but the original mod has been updated.
-| [**DJPerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4) | A remake of canalex's perspective mod with bugfixes.
-| [**Quickplay**](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/) | A mod to quickly join hypixel games & sort them to keybinds.
-| [**ReAuth**](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385) | Fixes the problem of having to restart your client when your session is invalid & more.
-| [**LinuxLWJGLKeyFix**](https://github.com/Vonr/LinuxLWJGLKeyFix) | Fixes a LWJGL bug causing incorrect registration of Shift+2 and Shift+6 on Linux systems.
-| [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3071182) | Gives the controls menu a new UI allowing for easier editing and viewing.
-| [**Smooth Scrolling Everywhere**](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files/2895468) | Makes scrolling in menus much smoother and much less clunky.
-| [**Popup Events**](https://sk1er.club/mods/popup_events) | Allows for accepting or denying requests on Hypixel much more easily.
-| [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0) | A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected.
-| [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065) | An overall awesome chat mod that lets you add smooth animations for messages and repositoning chat very easily as well as changing chat width and width and maybe more!
-| [**Custom Sky mod**](https://www.youtube.com/watch?v=i8ZgEzpqdAM) | Allows you to easily change your custom sky within a GUI |
+ [**Revamped Timechanger**](https://hypixel.net/threads/forge-1-8-9-timechanger-2-2-1-an-improved-timechanger-mod.3574261/) | A mod for changing time client|side.
+ [**ChatTriggers**](https://chattriggers.com/) | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. In other words, it's a mod that allows you to use javascript for stuff, and has tons of useful modules on their website. Please download the latest stable 1.3.1 release.
+ [**MiniInfo**](https://www.youtube.com/watch?v=9OwPMxBzQog) | Simple mod to display FPS, CPS, and ping by Aycy.
+ [**ResourcePackDisplay**](https://github.com/1fxe/Resource-Pack-Display/releases/) | (Not to be confused with Resourcepack Manager) Display current pack, the mod also has the /rpd random command to randomly choose a pack from your packs folder with detection for incompatible and duplicate packs.
+ [**OnHitParticles**](https://www.youtube.com/watch?v=0PPR_t-qyfw) | A mod to change what particles are shown when you hit someone with great customizability by Aycy.
+ [**Damage Tint**](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/) | A mod change the damage tint when you hit someone by Aycy.
+ [**Block Overlay**](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/) | A mod to change the block outline when you hover over blocks with complete customizability over the outline and a very nice unique GUI with live preview. Most people use the old powns continuation of the mod but the original mod has been updated.
+ [**DJPerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4) | A remake of canalex's perspective mod with bugfixes.
+ [**Quickplay**](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/) | A mod to quickly join hypixel games & sort them to keybinds.
+ [**ReAuth**](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385) | Fixes the problem of having to restart your client when your session is invalid & more.
+ [**LinuxLWJGLKeyFix**](https://github.com/Vonr/LinuxLWJGLKeyFix) | Fixes a LWJGL bug causing incorrect registration of Shift+2 and Shift+6 on Linux systems.
+ [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3071182) | Gives the controls menu a new UI allowing for easier editing and viewing.
+ [**Smooth Scrolling Everywhere**](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files/2895468) | Makes scrolling in menus much smoother and much less clunky.
+ [**Popup Events**](https://sk1er.club/mods/popup_events) | Allows for accepting or denying requests on Hypixel much more easily.
+ [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0) | A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected.
+ [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065) | An overall awesome chat mod that lets you add smooth animations for messages and repositoning chat very easily as well as changing chat width and width and maybe more!
+ [**Custom Sky mod**](https://www.youtube.com/watch?v=i8ZgEzpqdAM) | Allows you to easily change your custom sky within a GUI |
 ## Mods you should avoid - Alternatives
 
 | Mod | Reason |
 | --- | --- |
-| [**LabyMod**](https://github.com/MicrocontrollersDev/LabyMod-Alternatives) | LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
-| [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives) | SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore violates [Mojang's EULA](https://account.mojang.com/documents/minecraft_eula), and has a ton of problems causing crashes and visual glitches, and the developer steals stuff and is an all around terrible person pepelaugh.
-| **SkyblockCatia** | Causes a ton of incompatibilities, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
-| **Skypixel** | Unmaintaned and no longer works for Skyblock, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
-| [**SpiderFrog's OAM**](https://sk1er.club/beta) | has over 7mb of bloat and causes crashes. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta) which is currently in beta.
-| [**Orange Marshall's OAM**](https://sk1er.club/beta) | doesnt look like 1.7, missing animations like old sneaking animation, overwrites many things unnecessarily causing other mods to break, like OptiFine's custom item texture. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta) which is currently in beta.
-| **PlayerAPI** | This used to be a requirement for most togglesneaks but fortunately enough developers now know how access transformers actually work and aren't lazy. 
-| [**ResourcePack Organizer**](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Chylex | overwrites the custom sky for some bizarre reason lmao and he has no plans to update old versions. Instead you can use [Resourcepack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Aycy.
-| **Modcore Container** | was used to allow players to try out [Modcore](https://sk1er.club/modcore) before it was a thing, but now modcore is auto installed with all [Sk1er Mods](https://sk1er.club/)/Partnered developer's mods and in any mod that contains it.
-| **BetterFPS** | Useless and can cause a LOT of issues, [example1](https://twitter.com/asbythh/status/1260072556989644800?s=20), [example2](https://streamable.com/rthpah), [example3](https://streamable.com/bmnum3), as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
-| **TexFix** | Useless unless you have a big modpack (50 or more mods) and can barely lower memory usage. contrary to popular belief, this mod CANNOT improve fps as for obvious reasons. It can also make textures become 2D.
-| **FoamFix** | The 1.8.9 version is a useless and hacky mod. However, the 1.12.2 version is fine.
-| **1.8.9 TcpNoDelay** | Useless as 1.8.1 and above already has this enabled. This mod will only work on 1.8.0 and below.
-| [**Vanilla Enhancements**](https://sk1er.llc/mods/patcher) | Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature, unmaintained, abandoned which is why some features are broken and not getting fixed. Instead [Patcher](https://sk1er.llc/mods/patcher) takes some of its best features and fixes them.
-| **Inventory and Mouse Tweaks** | Many players get these mods to help sort their inventories in Skyblock, however they are both bannable and are not advised.
-| [**MouseDelayFix**](https://sk1er.llc/mods/patcher)  | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**MouseBindFix**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**CaseCommands**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**CommandPatcher**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**CompactChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) has a new improved rewrite of it.
-| [**CrossChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**Frames+**](https://sk1er.llc/mods/patcher) | Horrible mod that used to break performance but had some nice features which [Patcher](https://sk1er.llc/mods/patcher) now takes continuation of & improves upon.
-| [**ItemOptimizations**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**ResourceExploitFix**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already has a better improved version of it.
-| [**WindowedFullscreen**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**CleanView**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**FastChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**MemoryFix**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it and improves upon some of its features.
-| [**NoCloseMyChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**VoidChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**Fullbright**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
-| [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189) |developer is known for making bannable mods and i wouldnt recommend any of his other stuff as his reputation is ruined, the togglesprint had the cheat KeepSprint.
+ [**LabyMod**](https://github.com/MicrocontrollersDev/LabyMod-Alternatives) | LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
+ [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives) | SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore violates [Mojang's EULA](https://account.mojang.com/documents/minecraft_eula), and has a ton of problems causing crashes and visual glitches, and the developer steals stuff and is an all around terrible person pepelaugh.
+ **SkyblockCatia** | Causes a ton of incompatibilities, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
+ **Skypixel** | Unmaintaned and no longer works for Skyblock, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives).
+ [**SpiderFrog's OAM**](https://sk1er.club/beta) | has over 7mb of bloat and causes crashes. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta) which is currently in beta.
+ [**Orange Marshall's OAM**](https://sk1er.club/beta) | doesnt look like 1.7, missing animations like old sneaking animation, overwrites many things unnecessarily causing other mods to break, like OptiFine's custom item texture. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta) which is currently in beta.
+ **PlayerAPI** | This used to be a requirement for most togglesneaks but fortunately enough developers now know how access transformers actually work and aren't lazy. 
+ [**ResourcePack Organizer**](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Chylex | overwrites the custom sky for some bizarre reason lmao and he has no plans to update old versions. Instead you can use [Resourcepack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) by Aycy.
+ **Modcore Container** | was used to allow players to try out [Modcore](https://sk1er.club/modcore) before it was a thing, but now modcore is auto installed with all [Sk1er Mods](https://sk1er.club/)/Partnered developer's mods and in any mod that contains it.
+ **BetterFPS** | Useless and can cause a LOT of issues, [example1](https://twitter.com/asbythh/status/1260072556989644800?s=20), [example2](https://streamable.com/rthpah), [example3](https://streamable.com/bmnum3), as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
+ **TexFix** | Useless unless you have a big modpack (50 or more mods) and can barely lower memory usage. contrary to popular belief, this mod CANNOT improve fps as for obvious reasons. It can also make textures become 2D.
+ **FoamFix** | The 1.8.9 version is a useless and hacky mod. However, the 1.12.2 version is fine.
+ **1.8.9 TcpNoDelay** | Useless as 1.8.1 and above already has this enabled. This mod will only work on 1.8.0 and below.
+ [**Vanilla Enhancements**](https://sk1er.llc/mods/patcher) | Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature, unmaintained, abandoned which is why some features are broken and not getting fixed. Instead [Patcher](https://sk1er.llc/mods/patcher) takes some of its best features and fixes them.
+ **Inventory and Mouse Tweaks** | Many players get these mods to help sort their inventories in Skyblock, however they are both bannable and are not advised.
+ [**MouseDelayFix**](https://sk1er.llc/mods/patcher)  | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**MouseBindFix**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**CaseCommands**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**CommandPatcher**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**CompactChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) has a new improved rewrite of it.
+ [**CrossChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**Frames+**](https://sk1er.llc/mods/patcher) | Horrible mod that used to break performance but had some nice features which [Patcher](https://sk1er.llc/mods/patcher) now takes continuation of & improves upon.
+ [**ItemOptimizations**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**ResourceExploitFix**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already has a better improved version of it.
+ [**WindowedFullscreen**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**CleanView**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**FastChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**MemoryFix**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it and improves upon some of its features.
+ [**NoCloseMyChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**VoidChat**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**Fullbright**](https://sk1er.llc/mods/patcher) | [Patcher](https://sk1er.llc/mods/patcher) already replaces it.
+ [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189) |developer is known for making bannable mods and i wouldnt recommend any of his other stuff as his reputation is ruined, the togglesprint had the cheat KeepSprint.
 
 ## Features you might be looking for - Mods
 
 | Feature | Mod |
 | --- | --- |
-| **Armor Status** | [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
-| **AutoGG** | [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
-| **Autotext** (Bannable on Hypixel) | [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839)
-| **AutoTip** | [Semx11 AutoTip](https://autotip.pro)
-| **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
-| **CPS Counter/Keystrokes** | [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
-| **Clear Chat** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-| **Combo Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
-| **Coordinates** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns's  Coords Hud](https://download.powns.dev/coordsmod189)
-| **Crosshair Mod** | [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3164058)
-| **Direction Mod** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
-| **Enchant Glint** | [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
-| **FOV Changer** | [Sk1er's Patcher (/fov)](https://sk1er.club/mods/patcher)
-| **FPS Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
-| **Fullbright** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-| **Ghost Liquid Fix** | [Powns's Lava Fix](https://download.powns.dev/lavafix189)
-| **Hit Color** | [Aycy's Damage Tint](https://www.youtube.com/watch?v=ZK1C8iThJAA)
-| **Hitboxes** | F3 + B / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) / [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
-| **Inventory Blur** | [tterrag's  Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/2665186)
-| **Ingame Server Switcher** | [Canalex's ](https://www.youtube.com/watch?v=04EangMQd7I) / [Sk1er's  Patcher](https://sk1er.club/mods/patcher) (currently logs you out)
-| **Item Counter** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-| **Item Info** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-| **Item Physics** | [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695)
-| **JustEnoughItems** | [mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/2431977)
-| **Keystrokes Mod** | [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
-| **Levelhead** | [Sk1er's Levelhead](https://sk1er.club/mods/level_head)
-| **MiniMap** (!!! Bannable on Hypixel !!!) | [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
-| **Motion Blur** | [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
-| **Nick Hider** | [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
-| **Pack Display** | [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/tag/1.2) / [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk)
-| **Particle Mod** | [Dewgs's ParticleMod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s)
-| **Ping HUD** | [Senoe's Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
-| **Potion Status** | [Powns's PotionHud](https://download.powns.dev/potionhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
-| **Reach Display** | [Dewgs's ReachDisplay](https://www.youtube.com/watch?v=myQKoGnCjxY)
-| **ResourcePack** | [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
-| **Saturation** | [RoccoDev's  5Zig Reborn](https://5zigreborn.eu/)
-| **Scoreboard** | [Canelex & Powns Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
-| **Server Address HUD** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
-| **ShinyPots** | [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
-| **Stopwatch** | [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073)
-| **Toggle Sneak** | [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
-| **Toggle Sprint** | [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
-| **Waypoints** | [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
-| **Zoom** | [Sp614x Optifine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) / [Sk1er's Patcher](https://sk1er.llc/mods/patcher) (tweaks Optifine's)
-| **Compact Chat** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-| **Text Shadow** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-| **24 Hour Timestamps** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-| **Fancy Fonts** | [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/2568612)
-| **Timestamps** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-| **Chat Messages Notifications** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-| **Chat Opacity** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
-| **Chat Size** | [Moulberry's Hychat](https://discord.gg/moulberry)
-| **Replay Mod** | [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download/)
-| **Schematica Mod** | [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147)
-| **TeamSpeak Mod** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-| **MumbleLink** | [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154)
+ **Armor Status** | [Powns's ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
+ **AutoGG** | [Sk1er's AutoGG](https://sk1er.club/mods/autogg)
+ **Autotext** (Bannable on Hypixel) | [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839)
+ **AutoTip** | [Semx11 AutoTip](https://autotip.pro)
+ **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
+ **CPS Counter/Keystrokes** | [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+ **Clear Chat** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+ **Combo Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
+ **Coordinates** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns's  Coords Hud](https://download.powns.dev/coordsmod189)
+ **Crosshair Mod** | [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3164058)
+ **Direction Mod** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
+ **Enchant Glint** | [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189)
+ **FOV Changer** | [Sk1er's Patcher (/fov)](https://sk1er.club/mods/patcher)
+ **FPS Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+ **Fullbright** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+ **Ghost Liquid Fix** | [Powns's Lava Fix](https://download.powns.dev/lavafix189)
+ **Hit Color** | [Aycy's Damage Tint](https://www.youtube.com/watch?v=ZK1C8iThJAA)
+ **Hitboxes** | F3 + B / [Sk1er's Old Animations](https://sk1er.club/beta) (adds back 1.7 style hitboxes) / [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
+ **Inventory Blur** | [tterrag's  Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/2665186)
+ **Ingame Server Switcher** | [Canalex's ](https://www.youtube.com/watch?v=04EangMQd7I) / [Sk1er's  Patcher](https://sk1er.club/mods/patcher) (currently logs you out)
+ **Item Counter** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+ **Item Info** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+ **Item Physics** | [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695)
+ **JustEnoughItems** | [mezz's JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/2431977)
+ **Keystrokes Mod** | [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod)
+ **Levelhead** | [Sk1er's Levelhead](https://sk1er.club/mods/level_head)
+ **MiniMap** (!!! Bannable on Hypixel !!!) | [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap)
+ **Motion Blur** | [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod)
+ **Nick Hider** | [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider)
+ **Pack Display** | [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/tag/1.2) / [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk)
+ **Particle Mod** | [Dewgs's ParticleMod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s)
+ **Ping HUD** | [Senoe's Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+ **Potion Status** | [Powns's PotionHud](https://download.powns.dev/potionhud189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
+ **Reach Display** | [Dewgs's ReachDisplay](https://www.youtube.com/watch?v=myQKoGnCjxY)
+ **ResourcePack** | [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+ **Saturation** | [RoccoDev's  5Zig Reborn](https://5zigreborn.eu/)
+ **Scoreboard** | [Canelex & Powns Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
+ **Server Address HUD** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
+ **ShinyPots** | [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
+ **Stopwatch** | [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073)
+ **Toggle Sneak** | [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
+ **Toggle Sprint** | [Powns's ToggleSneak](https://download.powns.dev/togglesneak189)
+ **Waypoints** | [Aycy's Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
+ **Zoom** | [Sp614x Optifine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar) / [Sk1er's Patcher](https://sk1er.llc/mods/patcher) (tweaks Optifine's)
+ **Compact Chat** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+ **Text Shadow** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+ **24 Hour Timestamps** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+ **Fancy Fonts** | [bre2el's SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/2568612)
+ **Timestamps** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+ **Chat Messages Notifications** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+ **Chat Opacity** | [Sk1er's Patcher](https://sk1er.club/mods/patcher)
+ **Chat Size** | [Moulberry's Hychat](https://discord.gg/moulberry)
+ **Replay Mod** | [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download/)
+ **Schematica Mod** | [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147)
+ **TeamSpeak Mod** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
+ **MumbleLink** | [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154)
 
 ## Recommended Skyblock Mods
-- [**Biscuit's SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest) - A mod with a bunch of QOL features for Skyblock. Version 1.6 is currently in development that will add more modern features.
-- [**Moulberry's NotEnoughUpdates**](https://github.com/Moulberry/NotEnoughUpdates/releases) - This mod provides even more customization than SBA does and improves gameplay significantly. Version 2.0 is currently in development and can be downloaded on their [discord](https://discord.gg/moulberry) which adds many more features such as experimentation table solvers and fairy soul finder.
-- [**Sychic & Lily's Skytils**](https://github.com/Skytils/SkytilsMod/releases/) - This mod provides many QOL features, along with dungeon specific features such as solvers, and waypoints for diana's burrows and relics.
-- [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/) - Provides some dungeon solvers that Skytils is missing as well as some other minor game improvements.
-- [**Cow's Cowlection**](https://github.com/cow-mc/Cowlection/releases/) - Mainly known for its dungeon party finder helper, this mod adds more miscelaneous features.
-- [**DJtheRedstoner's YetAnotherSkyblockMod**](https://github.com/DJtheRedstoner/YetAnotherSkyblockMod/releases/tag/v1.3) - Allows for toggling certain features of other mods while in skyblock to remove unnecessary clutter.
+| Mod | Description |
+| --- | --- |
+ [**Biscuit's SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest) | A mod with a bunch of QOL features for Skyblock. Version 1.6 is currently in development that will add more modern features.
+ [**Moulberry's NotEnoughUpdates**](https://github.com/Moulberry/NotEnoughUpdates/releases) | This mod provides even more customization than SBA does and improves gameplay significantly. Version 2.0 is currently in development and can be downloaded on their [discord](https://discord.gg/moulberry) which adds many more features such as experimentation table solvers and fairy soul finder.
+ [**Sychic & Lily's Skytils**](https://github.com/Skytils/SkytilsMod/releases/) | This mod provides many QOL features, along with dungeon specific features such as solvers, and waypoints for diana's burrows and relics.
+ [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/) | Provides some dungeon solvers that Skytils is missing as well as some other minor game improvements.
+ [**Cow's Cowlection**](https://github.com/cow-mc/Cowlection/releases/) | Mainly known for its dungeon party finder helper, this mod adds more miscelaneous features.
+ [**DJtheRedstoner's YetAnotherSkyblockMod**](https://github.com/DJtheRedstoner/YetAnotherSkyblockMod/releases/tag/v1.3) | Allows for toggling certain features of other mods while in skyblock to remove unnecessary clutter.
 
 ## Common Crashes [WIP]
 - **Connected textures** - OptiFine 1.8.9 currently has an issue with connected textures causing crashes. Only "Fancy" is effected, so use "Fast" instead.
@@ -182,6 +184,7 @@ Huge credits to:
 - [Microcontrollers](https://github.com/MicrocontrollersDev/) for giving me permission to steal his stuff and for contributing and for monkey
 - [Systemless](https://github.com/SystemlessDev) for being Systemless (and sending a link to stackedit.io) 
 - [ProudMuslim](https://github.com/proudmuslim-dev) for contributing and fixing my english
+- [Asbyth](https://github.com/asbyth) i forgot what he did
 
 ## Monkey
 - [SkyClient](https://hypixel.net/threads/3731617) installs all the good Hypixel Skyblock mods for you
