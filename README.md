@@ -184,11 +184,8 @@
 
 ## Credits 
 Huge credits to:
-- [Regex](https://regex.rest/) because I took your pictures! 
-- [Microcontrollers](https://github.com/MicrocontrollersDev/) for giving me permission to steal his stuff and for contributing and for monkey
-- [Systemless](https://github.com/SystemlessDev) for being Systemless (and sending a link to stackedit.io) 
-- [ProudMuslim](https://github.com/proudmuslim-dev) for contributing and fixing my english
-- [Asbyth](https://github.com/asbyth) for showing me some person's cool repo about mods which lead to me revamping this to the sick cool new poggers extreme monkey new look
+[<img src="https://cdn.discordapp.com/avatars/202666531111436288/785002e674a3cb212ac5033e15275fe2.png?size=1024" width="100px;" /><br />Regex](https://regex.rest/) | [<img src="https://avatars.githubusercontent.com/u/66657148?v=4" width="100px;" /><br />Microcontrollers](https://github.com/MicrocontrollersDev/)<br /> | [<img src="https://avatars.githubusercontent.com/u/45434286?v=4" width="100px;" /><br />Systemless](https://github.com/SystemlessDev/) | [<img src="https://avatars.githubusercontent.com/u/69869443?v=4" width="100px;" /><br />Proudmuslim](https://github.com/proudmuslim-dev) | [<img src="https://avatars.githubusercontent.com/u/36578995?v=4" width="100px;" /><br />Asbyth](https://github.com/asbyth/)
+| :---: | :---: | :---: | :---: | :---: |
 ## Monkey
 - [SkyClient](https://hypixel.net/threads/3731617) installs all the good Hypixel Skyblock mods for you
 - Modcore 2.0 leaked installer, extremely small because of the new optimizations put in to actually download the files necessary which is simple [Mediafire link](https://www.mediafire.com/file/w1zd9z4e7u9cm1q/Modcore+installer+2.0+beta+3+LEAK.jar/file)
