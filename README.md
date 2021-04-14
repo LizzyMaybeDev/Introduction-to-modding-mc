@@ -82,7 +82,7 @@
  [**CompactChat**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") has a new improved rewrite of it.
  [**CrossChat**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**Frames+**](https://sk1er.llc/mods/patcher "Alternative") | Horrible mod that used to break performance but had some nice features which [Patcher](https://sk1er.llc/mods/patcher "Download Patcher") now takes continuation of & improves upon.
- [**ItemOptimizations**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative")) already replaces it.
+ [**ItemOptimizations**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**ResourceExploitFix**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already has a better improved version of it.
  [**WindowedFullscreen**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**CleanView**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
