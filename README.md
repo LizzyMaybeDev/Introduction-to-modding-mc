@@ -29,6 +29,7 @@
  [**Cowlection**](https://github.com/cow-mc/Cowlection/releases "Download Cowlection") | A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod).. | [Cow](https://github.com/cow-mc "Cow's Github")
  [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll "Download Scrollable Tooltips") | Scrollable tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip is too long for the screen. | [Sk1er](https://github.com/sk1er/ "Sk1er's Github") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))
  [**Ingame Audio Device Switcher**](https://github.com/dreamhopping/AudioSwitcher/releases/tag/1.0.0 "Download IADS") | A mod for 1.8.9 and 1.12.2 that lets you choose your sound output device, without having to restart your game! | [Dreamhopping](https://github.com/dreamhopping/ "Their Github")
+ [**MCGeForce**](https://github.com/MCGeForce/MCGeForce) | MCGeForce is a Mod which allows you to use automatic NVIDIA Highlights on Hypixel, such as record highlight every kill, win, game. | [Dreamhopping](https://github.com/dreamhopping/ "Their Github")
 
 | More | 
 | --- |
