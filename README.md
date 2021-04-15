@@ -34,7 +34,7 @@
 | More | 
 | --- |
  And you can always check [**sk1er.club**](https://sk1er.llc "Sk1er's Website") for the latest Sk1er LLC/partners mods.
-
+ or [BoomBoomPower's website](https://no.boomy.wtf/ "Boom's Website")
 
 ## Mods that you may have not heard of
 
