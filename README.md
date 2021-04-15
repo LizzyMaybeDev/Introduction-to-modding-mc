@@ -49,6 +49,7 @@
  [**Block Overlay**](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/ "Download Block Overlay") | A mod to change the block outline when you hover over blocks with complete customizability over the outline and a very nice unique GUI with live preview. Most people use the old powns continuation of the mod but the original mod has been updated.
  [**DJPerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4 "Download Perspectivemod") | A remake of canalex's perspective mod with bugfixes.
  [**Quickplay**](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/ "Download Quickplay") | A mod to quickly join hypixel games & sort them to keybinds.
+ [SkinChanger](https://no.boomy.wtf/?name=SkinChanger&version=3.0.88) | A mod which allows players to change their cape and skin directly from an in-game menu.
  [**ReAuth**](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385 "Download ReAuth") | Fixes the problem of having to restart your client when your session is invalid & more.
  [**LinuxLWJGLKeyFix**](https://github.com/Vonr/LinuxLWJGLKeyFix "Download KeyFix") | Fixes a LWJGL bug causing incorrect registration of Shift+2 and Shift+6 on Linux systems.
  [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3071182 "Download Controlling") | Gives the controls menu a new UI allowing for easier editing and viewing.
