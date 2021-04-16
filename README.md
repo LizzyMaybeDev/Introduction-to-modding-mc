@@ -157,7 +157,7 @@
  [**WindowedFullscreen**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**CleanView**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**FastChat**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
- [**MemoryFix**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it and improves upon some of its features.
+ [**MemoryFix**](https://sk1er.llc/mods/patcher "Alternative") | stops the game from trying to free memory in most cases, [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it and improves upon some of its features.
  [**NoCloseMyChat**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**VoidChat**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**Fullbright**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
