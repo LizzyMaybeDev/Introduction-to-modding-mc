@@ -8,7 +8,6 @@
 
 - [Download the latest forge version](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.8.9.html "Download Forge")
 - Run it to install forge  
-![3](https://regex.rest/media/forgefordummies/3.png)
 
 - Open minecraft launcher and check if forge's profile is there, if not then you can create it ![image](https://user-images.githubusercontent.com/74936369/111808098-b8d7bf00-88e4-11eb-8a2d-60e93b1406a5.png)
 - Now that we're done with forge if you're on windows you can press windows+r and type %appdata%/.minecraft/ and if you're on mac do ⌘ (Command) + Space type "~/Library/Application Support/minecraft/" then create a folder called "mods" if it isnt there already.
@@ -55,7 +54,7 @@
  [**Smooth Scrolling Everywhere**](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files/2895468 "Download SSE") | Makes scrolling in menus much smoother and much less clunky.
  [**Popup Events**](https://sk1er.club/mods/popup_events "Download Popup events") | Allows for accepting or denying requests on Hypixel much more easily.
  [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0 "Download BPG") | A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected.
- [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065 "Download BetterChat") | An overall awesome chat mod that lets you add smooth animations for messages and repositoning chat very easily as well as changing chat width and width and maybe more!
+ [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065 "Download BetterChat") | An overall awesome chat mod that lets you add smooth animations for messages and repositoning chat very easily as well as changing chat width and maybe more!
  [**Custom Sky mod**](https://www.youtube.com/watch?v=i8ZgEzpqdAM "Download Custom sky mod") | Allows you to easily change your custom sky within a GUI. |
 ## Features you might be looking for - Mods
 
