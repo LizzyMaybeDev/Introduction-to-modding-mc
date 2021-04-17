@@ -90,7 +90,7 @@
  **Motion Blur** | [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod "Download Motionblur")
  **Nick Hider** | [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider "Download NickHider")
  **Pack Display** | [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/tag/1.2 "Download RPD") / [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk "Download RPD")
- **Particle Mod** | [Dewgs's ParticleMod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s "Download ParticleMod") / [Ayct's OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw "Download OnHitParticles")
+ **Particle Mod** | [Dewgs's ParticleMod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s "Download ParticleMod") / [Aycy's OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw "Download OnHitParticles")
  **Ping HUD** | [Senoe's Port](https://www.youtube.com/watch?v=NAsefZXZbHQ "Download PingHUD") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo")
  **Potion Status** | [Powns's PotionHud](https://download.powns.dev/potionhud189 "Download Potionhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromafuck")
  **Reach Display** | [Dewgs's ReachDisplay](https://www.youtube.com/watch?v=myQKoGnCjxY "Download ReachDisplay")
