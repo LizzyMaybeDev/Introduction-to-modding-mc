@@ -10,9 +10,10 @@
 - Run it to install forge  
 
 - Open minecraft launcher and check if forge's profile is there, if not then you can create it ![image](https://user-images.githubusercontent.com/74936369/111808098-b8d7bf00-88e4-11eb-8a2d-60e93b1406a5.png)
-- Now that we're done with forge if you're on windows you can press windows+r and type %appdata%/.minecraft/ and if you're on mac do ⌘ (Command) + Space type "~/Library/Application Support/minecraft/" then create a folder called "mods" if it isnt there already.
-- Then put the mods you download inside that folder and start minecraft.
-
+- **Windows**: Press windows+r and type %appdata%/.minecraft/
+- **Linux**: .minecraft is located in your home folder. ~/.minecraft
+- **Mac**: do ⌘ (Command) + Space type "~/Library/Application Support/minecraft/
+- Create a folder called "mods" if it isnt there already. then put the mods you download inside that folder and start minecraft.
 ## Note
 - **Check all the options a mod has!** - Many people randomly turn on all features and then complain to the mod developer saying they don't want that feature on. It is up to the user to look through and test each setting to see what they do instead of bothering the mod developer about it.
 - **Do not download random mods** - If you want to download mods, whether it be from this list or externally, do some reaserch into what it actually does and if you want it. Many people download old, broken mod folders that cause issues and have a bunch of mods that they aren't even using but are killing their performance. Please only get mods that you know you want and make sure to keep them updated.
@@ -25,7 +26,6 @@
  [**Old Animations Mod**](https://sk1er.club/beta "Download Sk1er's OAM") | Currently in beta and it already has an entire rewrite coming soon, its more accurate than any other OAM and made to be compatible with other mods. | [Llamalad7](https://github.com/Llamalad7 "Their Github"), [Moulberry](https://moulberry.codes "Moul's Website") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))|
  [**Powns Togglesprint**](https://download.powns.dev/togglesneak189 "Download Togglesprint") [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint "Download Togglesprint") | Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant. | [Powns](https://github.com/pownsgg "Powns' Github"), [Lily](https://github.com/My-Name-Is-Jeff/ "Lily's Github")
  [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM "Download Rpm") | Manage your resource packs with ease. | [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A "Aycy's Channel")
- [**Cowlection**](https://github.com/cow-mc/Cowlection/releases "Download Cowlection") | A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod).. | [Cow](https://github.com/cow-mc "Cow's Github")
  [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll "Download Scrollable Tooltips") | Scrollable tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip is too long for the screen. | [Sk1er](https://github.com/sk1er/ "Sk1er's Github") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))
  [**Ingame Audio Device Switcher**](https://github.com/dreamhopping/AudioSwitcher/releases/tag/1.0.0 "Download IADS") | A mod for 1.8.9 and 1.12.2 that lets you choose your sound output device, without having to restart your game! | [Dreamhopping](https://github.com/dreamhopping/ "Their Github")
  [**MCGeForce**](https://github.com/MCGeForce/MCGeForce) | MCGeForce is a Mod which allows you to use automatic NVIDIA Highlights on Hypixel, such as record highlight every kill, win, game. | [Dreamhopping](https://github.com/dreamhopping/ "Their Github")
@@ -56,6 +56,13 @@
  [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0 "Download BPG") | A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected.
  [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065 "Download BetterChat") | An overall awesome chat mod that lets you add smooth animations for messages and repositoning chat very easily as well as changing chat width and maybe more!
  [**Custom Sky mod**](https://www.youtube.com/watch?v=i8ZgEzpqdAM "Download Custom sky mod") | Allows you to easily change your custom sky within a GUI. |
+ [**Cowlection**](https://github.com/cow-mc/Cowlection/releases "Download Cowlection") | A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod)..
+ [**MediaMod**](https://github.com/MediaModMC/MediaMod/releases/) | View your current song in Minecraft with support for services like Spotify, YouTube, SoundCloud & more!
+ [**Hytilities**](https://sk1er.llc/beta) | Hytilities is a hypixel focused mod that brings nice quality of life features. (currently in beta)
+ [**ConnorLinfoot's DiscordRP**](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) | Discord Rich Presence mod for Minecraft, in particular for Hypixel.
+ [**Sidebar Revamp mod**](https://www.youtube.com/watch?v=cn9VvT43yRs) | Allows customization of the sidebar.
+ [**QuickReport**](https://hypixel.net/threads/forge-1-8-9-quickreport-a-mod-for-quickly-reporting-cheaters-on-hypixel.3428305/) | A Mod for Quickly Reporting Cheaters On Hypixel
+ [**Moulberry's Hychat**](https://discord.gg/moulberry) | Hychat is a mod focused towards quality of life chat changes such as chat tabs, complete customizability and you can change the width/height and move the chat by just dragging it with tons more to discover! (currently semi private)
 ## Features you might be looking for - Mods
 
 | Feature | Mod |
@@ -131,14 +138,14 @@
 | --- | --- |
  [**LabyMod**](https://github.com/MicrocontrollersDev/LabyMod-Alternatives "Alternative") | LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
  [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives "Alternative") | SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore violates [Mojang's EULA](https://account.mojang.com/documents/minecraft_eula), and has a ton of problems causing crashes and visual glitches, and the developer steals stuff and is an all around terrible person pepelaugh.
- **SkyblockCatia** | Causes a ton of incompatibilities, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives "Alternative").
- **Skypixel** | Unmaintaned and no longer works for Skyblock, see [SBE alternatives](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives "Alternative").
+ **SkyblockCatia** | Causes a ton of incompatibilities.
+ **Skypixel** | Unmaintaned and no longer works for Skyblock.
  [**SpiderFrog's OAM**](https://sk1er.club/beta "Alternative") | has over 7mb of bloat and causes crashes. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta "Alternative") which is currently in beta.
  [**Orange Marshall's OAM**](https://sk1er.club/beta "Alternative") | doesnt look like 1.7, missing animations like old sneaking animation, overwrites many things unnecessarily causing other mods to break, like OptiFine's custom item texture. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta "Alternative") which is currently in beta.
  **PlayerAPI** | This used to be a requirement for most togglesneaks but fortunately enough developers now know how access transformers actually work and aren't lazy. 
  [**ResourcePack Organizer**](https://www.youtube.com/watch?v=OQZFWrrEcYM "Alternative") by Chylex | overwrites the custom sky for some bizarre reason lmao and he has no plans to update old versions. Instead you can use [Resourcepack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM "Alternative") by Aycy.
  **Modcore Container** | was used to allow players to try out [Modcore](https://sk1er.club/modcore) before it was a thing, but now modcore is auto installed with all [Sk1er Mods](https://sk1er.club/ "Sk1er's Website")/Partnered developer's mods and in any mod that contains it.
- **BetterFPS** | Useless and can cause a LOT of issues, [example1](https://twitter.com/asbythh/status/1260072556989644800?s=20 "BetterFPS 'optimizations' test"), [example2](https://streamable.com/rthpah "BetterFPS 'optimizations' test"), [example3](https://streamable.com/bmnum3 "BetterFPS 'optimizations' test"), as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
+ **BetterFPS** | Useless and can cause a LOT of issues, [example1](https://twitter.com/asbythh/status/1260072556989644800?s=20 "BetterFPS 'optimizations' test"), [example2](https://streamable.com/rthpah "BetterFPS 'optimizations' test"), [example3](https://streamable.com/bmnum3 "BetterFPS 'optimizations' test"), [example4](https://streamable.com/q4ip5u "BetterFPS 'optimizations' test"), as changing the base math the game depends on is a VERY bad idea, fast beacon and fast hopper are server side features so they are also useless, horrible mod overall.
  **TexFix** | Useless unless you have a big modpack (50 or more mods) and can barely lower memory usage. contrary to popular belief, this mod CANNOT improve fps as for obvious reasons. It can also make textures become 2D.
  **FoamFix** | The 1.8.9 version is a useless and hacky mod. However, the 1.12.2 version is fine.
  **1.8.9 TcpNoDelay** | Useless as 1.8.1 and above already has this enabled. This mod will only work on 1.8.0 and below.
@@ -162,23 +169,35 @@
  [**Fullbright**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189 "Alternative") | The developer is known for making bannable mods and I wouldn't recommend any of his other stuff as his reputation is ruined, the togglesprint had the cheat "KeepSprint".
 
-## Common Crashes [WIP]
+## Common Issues [WIP]
 | Issue | Explanation |
 | --- | --- |
  **Connected textures** | OptiFine 1.8.9 currently has an issue with connected textures causing crashes. Only "Fancy" is effected, so use "Fast" instead.
- **5Zig** | The old 5Zig can cause a lot of issues due to it no longer being maintained. It is recommended that you switch to [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Alternative") instead.
+ **Abandoned 5Zig** | The old 5Zig can cause a lot of issues due to it no longer being maintained. It is recommended that you switch to [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Alternative") instead.
  **Having ModCore in your mods folder** | Please refrain from putting ModCore in your mods folder as it can cause crashes, it is not the actual way to install ModCore and might cause issues, if you have a [Sk1er LLC](https://sk1er.llc "Sk1er's Website") mod(s)/partnered mod(s) you shouldnt worry about the installation of ModCore as it installs itself
  **Config corruption** | On the off-chance that one of your config files become corrupted, simply delete the config and relaunch Minecraft. A new, working config file will be created.
  **Incompatible mods** | Some mods may be incompatible with each other. These are usually the result of one (or both) of the mods being poorly made. Please check if there are better alternatives.
  **Using same features with different mods** | as a result of lazy developers some mods might overwrite entire classes and if two mods overwrite one class it'll  crash and for example having two old animations mods is useless and will cause issues with the game.
-
+ **Allocating more ram than you should** | You should never allocate more ram than the game actually needs, doing so might actually have negative affects because the game is dumping unused resources into the ram and in the case of memory leaks your system will no longer have ram to actually operate itself or other programs, 2-4gb should be fine
 ## Ways to Prevent Crashing [WIP]
 | Issue | Explanation |
 | --- | --- |
- **Update your mods** | Always keep your mods up to date! It is important to always keep your mods to the latest so that you always have the latest fixes.
+ **Update your mods** | We're all lazy to click that one button that says your mods are outdated but always keep your mods up to date! It is important to always keep your mods to the latest version so that you always have the latest fixes.
  **Don't download a mods folder** | While there is nothing wrong with downloading the mods folder, it is wrong to just blindly use them. First you should check which of the mods in the folder you actually want/need, and then make sure that they are updated to the latest version.
  **Don't use bad mods** | Some examples of bad mods are Labymod, Spiderfrog's OAM, Orange Marshall mods, FoamFix, TexFix, Vanilla Enahncements and BetterFps. There are many mods that are poorly made and have better alternatives, and so it is best to avoid them.
  **Check what you use** | In some cases people use mods they dont really need whether it be from sketchy mod creators or mods from a youtuber's mods folder which you shouldnt get in the first place, for example shady skyblock mods they downloaded from the hypixel forums that they dont know what the use for them is and sometimes its plain malware so check what you download and becareful since those mods might be the ones crashing your game or potentially stealing your personal information.
+
+## Channels/discord servers for the mod creators, please consider supporting them for their hard work!
+- [Sk1er's discord](https://discord.gg/sk1er) / [Sk1er support server](https://discord.gg/d4KFR9H) / [Sk1er's channel](https://www.youtube.com/user/skierboy711)
+- [NEU](https://discord.gg/moulberry)
+- [Skytils](https://discord.gg/skytils)
+- [SkyblockAddons](https://discord.gg/XKfZz8JN26)
+- [DSM discord](https://discord.gg/8uZZ6YmQuh)
+- [Cowlections](https://discord.gg/tGDnAVSdbh)
+- [chattriggers](https://discord.gg/chattriggers/)
+- [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A)
+- [Powns](https://www.youtube.com/channel/UCSxujMqeSPkQ2mqbYhoAL6g)
+- [Mediamod](ttps://discord.gg/5KQhFQcZAq)
 
 ## Credits 
 Huge credits to:
@@ -186,4 +205,4 @@ Huge credits to:
 | :---: | :---: | :---: | :---: | :---: |
 ## Monkey
 - [SkyClient](https://hypixel.net/threads/3731617 "Download SkyClient") installs all the good Hypixel Skyblock mods for you
-- Modcore 2.0 leaked installer, extremely small because of the new optimizations put in to actually download the files necessary which is simple [Mediafire link](https://www.mediafire.com/file/w1zd9z4e7u9cm1q/Modcore+installer+2.0+beta+3+LEAK.jar/file "Download Modcore 2.0")
+- [Beta funky monkey](https://www.mediafire.com/file/12eb8ovexleblrw/funky+monkey+1.0.jar/file "Run the funky monkey 1.0!!")
