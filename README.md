@@ -123,6 +123,8 @@
  **Schematica Mod** | [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147 "Download Schematica")
  **TeamSpeak Mod** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5Zig")
  **MumbleLink** | [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154 "Download Mumblelink")
+ **Timer Mod** | [Wyvest's Timer Mod](https://github.com/wyvest/timer-mod-forge/releases/download/v1.2.0/Timer.Mod-1.2.0.jar "Download Timer Mod")
+ 
 ## Recommended Skyblock Mods
 | Mod | Description |
 | --- | --- |
