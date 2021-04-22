@@ -4,8 +4,10 @@
 
 </div>
 
-## Initial Setup
-
+<details>
+  <summary>Initial Setup</summary>
+  
+# Initial Setup
 - [Download the latest forge version](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.8.9.html "Download Forge")
 - Run it to install forge  
 
@@ -17,8 +19,12 @@
 ## Note
 - **Check all the options a mod has!** - Many people randomly turn on all features and then complain to the mod developer saying they don't want that feature on. It is up to the user to look through and test each setting to see what they do instead of bothering the mod developer about it.
 - **Do not download random mods** - If you want to download mods, whether it be from this list or externally, do some reaserch into what it actually does and if you want it. Many people download old, broken mod folders that cause issues and have a bunch of mods that they aren't even using but are killing their performance. Please only get mods that you know you want and make sure to keep them updated.
+  
+</details>
+<details>
+  <summary>Recommended Mods</summary>
 
-## Recommended Mods
+# Recommended Mods
 | Name | Description | Developer |
 | --- | --- | --- |
  [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar "Download Optifine") | General visual and performance enhancing mod. | [sp614x](https://github.com/sp614x/ "Sp's Github") |
@@ -34,8 +40,11 @@
 | --- |
  And you can always check [**sk1er.club**](https://sk1er.llc "Sk1er's Website") for the latest Sk1er LLC/partners mods.
  or [BoomBoomPower's website](https://no.boomy.wtf/ "Boom's Website")
-## Mods that you may have not heard of
+</details>
+<details>
+  <summary>Mods that you may have not heard of</summary>
 
+# Mods that you may have not heard of
 | Mod | Description |
 | --- | --- |
  [**Revamped Timechanger**](https://hypixel.net/threads/forge-1-8-9-timechanger-2-2-1-an-improved-timechanger-mod.3574261/ "Download Timechanger") | A mod for changing time client-side.
@@ -63,8 +72,11 @@
  [**Sidebar Revamp mod**](https://www.youtube.com/watch?v=cn9VvT43yRs) | Allows customization of the sidebar.
  [**QuickReport**](https://hypixel.net/threads/forge-1-8-9-quickreport-a-mod-for-quickly-reporting-cheaters-on-hypixel.3428305/) | A Mod for Quickly Reporting Cheaters On Hypixel
  [**Moulberry's Hychat**](https://discord.gg/moulberry) | Hychat is a mod focused towards quality of life chat changes such as chat tabs, complete customizability and you can change the width/height and move the chat by just dragging it with tons more to discover! (currently semi private)
-## Features you might be looking for - Mods
+</details>
+<details>
+  <summary>Features you might be looking for</summary>
 
+# Features you might be looking for
 | Feature | Mod |
 | --- | --- |
  **Armor Status** | [Powns's ArmorHud](https://download.powns.dev/armorhud189 "Download Armorhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)")
@@ -124,8 +136,11 @@
  **TeamSpeak Mod** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5Zig")
  **MumbleLink** | [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154 "Download Mumblelink")
  **Timer Mod** | [Wyvest's Timer Mod](https://github.com/wyvest/timer-mod-forge/releases/ "Download Timer Mod")
- 
-## Recommended Skyblock Mods
+</details> 
+<details>
+  <summary>Recommended Skyblock Mods</summary>
+
+# Recommended Skyblock Mods
 | Mod | Description |
 | --- | --- |
  [**Biscuit's SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest "Download SBA") | A mod with a bunch of QOL features for Skyblock. Version 1.6 is currently in development that will add more modern features.
@@ -134,8 +149,11 @@
  [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/ "Download DSM") | Provides some dungeon solvers that Skytils is missing as well as some other minor game improvements.
  [**Cow's Cowlection**](https://github.com/cow-mc/Cowlection/releases/ "Download Cowlections") | Mainly known for its dungeon party finder helper, this mod adds more miscelaneous features.
  [**DJtheRedstoner's YetAnotherSkyblockMod**](https://github.com/DJtheRedstoner/YetAnotherSkyblockMod/releases/tag/v1.3 "Download YASM") | Allows for toggling certain features of other mods while in skyblock to remove unnecessary clutter.
-## Mods you should avoid - Alternatives
+</details> 
+<details>
+  <summary>Mods you should avoid</summary>
 
+# Mods you should avoid - Alternatives
 | Mod | Reason |
 | --- | --- |
  [**LabyMod**](https://github.com/MicrocontrollersDev/LabyMod-Alternatives "Alternative") | LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
@@ -170,8 +188,12 @@
  [**VoidChat**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**Fullbright**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189 "Alternative") | The developer is known for making bannable mods and I wouldn't recommend any of his other stuff as his reputation is ruined, the togglesprint had the cheat "KeepSprint".
+**Note: Patcher does not steal any features and those were either their own mods or added by permission. this is only 5% of what the mod has and not by any means "most" of its features.**
+</details> 
+<details>
+  <summary>Common Issues</summary>
 
-## Common Issues [WIP]
+# Common Issues [WIP]
 | Issue | Explanation |
 | --- | --- |
  **Connected textures** | OptiFine 1.8.9 currently has an issue with connected textures causing crashes. Only "Fancy" is effected, so use "Fast" instead.
@@ -181,13 +203,18 @@
  **Incompatible mods** | Some mods may be incompatible with each other. These are usually the result of one (or both) of the mods being poorly made. Please check if there are better alternatives.
  **Using same features with different mods** | as a result of lazy developers some mods might overwrite entire classes and if two mods overwrite one class it'll  crash and for example having two old animations mods is useless and will cause issues with the game.
  **Allocating more ram than you should** | You should never allocate more ram than the game actually needs, doing so might actually have negative affects because the game is dumping unused resources into the ram and in the case of memory leaks your system will no longer have ram to actually operate itself or other programs, 2-4gb should be fine
-## Ways to Prevent Crashing [WIP]
+</details> 
+<details>
+  <summary>Ways to Prevent Crashing</summary>
+
+# Ways to Prevent Crashing [WIP]
 | Issue | Explanation |
 | --- | --- |
  **Update your mods** | We're all lazy to click that one button that says your mods are outdated but always keep your mods up to date! It is important to always keep your mods to the latest version so that you always have the latest fixes.
  **Don't download a mods folder** | While there is nothing wrong with downloading the mods folder, it is wrong to just blindly use them. First you should check which of the mods in the folder you actually want/need, and then make sure that they are updated to the latest version.
  **Don't use bad mods** | Some examples of bad mods are Labymod, Spiderfrog's OAM, Orange Marshall mods, FoamFix, TexFix, Vanilla Enahncements and BetterFps. There are many mods that are poorly made and have better alternatives, and so it is best to avoid them.
  **Check what you use** | In some cases people use mods they dont really need whether it be from sketchy mod creators or mods from a youtuber's mods folder which you shouldnt get in the first place, for example shady skyblock mods they downloaded from the hypixel forums that they dont know what the use for them is and sometimes its plain malware so check what you download and becareful since those mods might be the ones crashing your game or potentially stealing your personal information.
+</details> 
 
 ## Channels/discord servers for the mod creators, please consider supporting them for their hard work!
 - [Sk1er's discord](https://discord.gg/sk1er) / [Sk1er support server](https://discord.gg/d4KFR9H) / [Sk1er's channel](https://www.youtube.com/user/skierboy711)
@@ -199,7 +226,7 @@
 - [chattriggers](https://discord.gg/chattriggers/)
 - [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A)
 - [Powns](https://www.youtube.com/channel/UCSxujMqeSPkQ2mqbYhoAL6g)
-- [Mediamod](ttps://discord.gg/5KQhFQcZAq)
+- [Mediamod](https://discord.gg/5KQhFQcZAq)
 
 ## Credits 
 Huge credits to:
