@@ -215,8 +215,10 @@
  **Don't use bad mods** | Some examples of bad mods are Labymod, Spiderfrog's OAM, Orange Marshall mods, FoamFix, TexFix, Vanilla Enahncements and BetterFps. There are many mods that are poorly made and have better alternatives, and so it is best to avoid them.
  **Check what you use** | In some cases people use mods they dont really need whether it be from sketchy mod creators or mods from a youtuber's mods folder which you shouldnt get in the first place, for example shady skyblock mods they downloaded from the hypixel forums that they dont know what the use for them is and sometimes its plain malware so check what you download and becareful since those mods might be the ones crashing your game or potentially stealing your personal information.
 </details> 
+<details>
+  <summary>Creators</summary>
 
-## Channels/discord servers for the mod creators, please consider supporting them for their hard work!
+# Channels/discord servers for the mod creators, please consider supporting them for their hard work!
 - [Sk1er's discord](https://discord.gg/sk1er) / [Sk1er support server](https://discord.gg/d4KFR9H) / [Sk1er's channel](https://www.youtube.com/user/skierboy711)
 - [NEU](https://discord.gg/moulberry)
 - [Skytils](https://discord.gg/skytils)
@@ -227,6 +229,7 @@
 - [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A)
 - [Powns](https://www.youtube.com/channel/UCSxujMqeSPkQ2mqbYhoAL6g)
 - [Mediamod](https://discord.gg/5KQhFQcZAq)
+</details> 
 
 ## Credits 
 Huge credits to:
