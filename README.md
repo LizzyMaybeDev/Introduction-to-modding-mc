@@ -236,5 +236,4 @@ Huge credits to:
 [<img src="https://cdn.discordapp.com/avatars/202666531111436288/785002e674a3cb212ac5033e15275fe2.png?size=1024" width="100px;" /><br />Regex](https://regex.rest/) | [<img src="https://avatars.githubusercontent.com/u/66657148?v=4" width="100px;" /><br />Microcontrollers](https://github.com/MicrocontrollersDev/)<br /> | [<img src="https://avatars.githubusercontent.com/u/45434286?v=4" width="100px;" /><br />Systemless](https://github.com/SystemlessDev/) | [<img src="https://avatars.githubusercontent.com/u/69869443?v=4" width="100px;" /><br />Proudmuslim](https://github.com/proudmuslim-dev) | [<img src="https://avatars.githubusercontent.com/u/36578995?v=4" width="100px;" /><br />asbyth](https://github.com/asbyth/)
 | :---: | :---: | :---: | :---: | :---: |
 ## Monkey
-- [SkyClient](https://hypixel.net/threads/3731617 "Download SkyClient") installs all the good Hypixel Skyblock mods for you
 - [Beta funky monkey](https://www.mediafire.com/file/12eb8ovexleblrw/funky+monkey+1.0.jar/file "Run the funky monkey 1.0!!")
