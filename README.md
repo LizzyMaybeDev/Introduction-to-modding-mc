@@ -236,10 +236,9 @@
 - [SkyblockAddons](https://discord.gg/XKfZz8JN26)
 - [DSM discord](https://discord.gg/8uZZ6YmQuh)
 - [Cowlections](https://discord.gg/tGDnAVSdbh)
-- [chattriggers](https://discord.gg/chattriggers/)
+- [chattriggers](https://discord.gg/chattriggers)
 - [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A)
 - [Powns](https://www.youtube.com/channel/UCSxujMqeSPkQ2mqbYhoAL6g)
-- [Mediamod](https://discord.gg/5KQhFQcZAq)
 </details> 
 
 ## Credits 
