@@ -72,6 +72,14 @@
  [**Sidebar Revamp mod**](https://www.youtube.com/watch?v=cn9VvT43yRs) | Allows customization of the sidebar.
  [**QuickReport**](https://hypixel.net/threads/forge-1-8-9-quickreport-a-mod-for-quickly-reporting-cheaters-on-hypixel.3428305/) | A Mod for Quickly Reporting Cheaters On Hypixel
  [**Moulberry's Hychat**](https://discord.gg/moulberry) | Hychat is a mod focused towards quality of life chat changes such as chat tabs, complete customizability and you can change the width/height and move the chat by just dragging it with tons more to discover! (currently semi private)
+[NoCheaters](https://hypixel.net/threads/forge-1-8-nocheaters-%E2%80%93-avoid-cheaters-in-game.2317497/) | NoCheaters saves cheaters that you have reported and warns you in a nice message with the time of your report and the cheats you reported them for as seen here, basically a mod for sweats.
+[ToggleChat](https://no.boomy.wtf/?mod=togglechat&name=ToggleChat&version=3.0.1) | Allows you to enable and disable certain chats on hypixel.
+[ArmorHUD](https://download.powns.dev/armorhud189) | Shows the armor you're wearing and whatever you're holding with percentage for durability.
+[PotionHUD](https://download.powns.dev/potionhud189) | Shows active potion effects.
+[CoordsHUD](https://download.powns.dev/coordsmod189) | Show current coordinates.
+[GlintColorizer](https://download.powns.dev/glintcolorizer189) | Allows for customizability with the enchanting glint color.
+[ParticleCustomizer](https://download.powns.dev/particlecustomiser189) | Allows complete customizability over particles.
+[Discraft](https://www.curseforge.com/minecraft/mc-mods/discraft-the-unofficial-minecraft-discord) | Discraft allows you to access Discord via an in-game web display, which makes it TOS compliant.
 </details>
 <details>
   <summary>Features you might be looking for</summary>
@@ -187,7 +195,9 @@
  [**NoCloseMyChat**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**VoidChat**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**Fullbright**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
- [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189 "Alternative") | The developer is known for making bannable mods and I wouldn't recommend any of his other stuff as his reputation is ruined, the togglesprint had the cheat "KeepSprint".
+ [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189 "Alternative") | the togglesprint had the cheat "KeepSprint".
+ [**Mushway Particles Mod**](https://www.youtube.com/watch?v=0PPR_t-qyfw) | The famous particles mod sent extra attack packets with no swing packets in order to create more particles, causing tons of false bans and huge controversy surrounding the youtuber as youtubers such as tenebrous started talking about it.
+**JustEnoughDungeons (JED)** | The well-known dungeons mod that thrived from stealing other features from other mods ended up being token logged and caused damages for many players to lose their accounts and money, the owner later on addressed it and faked his ownership with another account disgusing as an "old friend" of the original owner then bypassing hypixel mod blacklist by changing the modid, then exposed very shortly after by [asbyth](https://twitter.com/asbythh/status/1340710212030836736)
 **Note: Patcher does not steal any features and those were either their own mods or added by permission. this is only 5% of what the mod has and not by any means "most" of its features.**
 </details> 
 <details>
