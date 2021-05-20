@@ -198,6 +198,7 @@
  [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189 "Alternative") | the togglesprint had the cheat "KeepSprint".
  [**Mushway Particles Mod**](https://www.youtube.com/watch?v=0PPR_t-qyfw) | The famous particles mod sent extra attack packets with no swing packets in order to create more particles, causing tons of false bans and huge controversy surrounding the youtuber as youtubers such as tenebrous started talking about it.
 **JustEnoughDungeons (JED)** | The well-known dungeons mod that thrived from stealing other features from other mods ended up being token logged and caused damages for many players to lose their accounts and money, the owner later on addressed it and faked his ownership with another account disgusing as an "old friend" of the original owner then bypassing hypixel mod blacklist by changing the modid, then exposed very shortly after by [asbyth](https://twitter.com/asbythh/status/1340710212030836736)
+
 **Note: Patcher does not steal any features and those were either their own mods or added by permission. this is only 5% of what the mod has and not by any means "most" of its features.**
 </details> 
 <details>
