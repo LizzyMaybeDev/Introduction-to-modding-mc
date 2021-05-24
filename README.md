@@ -164,9 +164,9 @@
 # Mods you should avoid - Alternatives
 | Mod | Reason |
 | --- | --- |
- [**LabyMod**](https://github.com/MicrocontrollersDev/LabyMod-Alternatives "Alternative") | LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
- [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Skyblock-Extras-Alternatives "Alternative") | SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore violates [Mojang's EULA](https://account.mojang.com/documents/minecraft_eula), and has a ton of problems causing crashes and visual glitches, and the developer steals stuff and is an all around terrible person pepelaugh.
- **SkyblockCatia** | Causes a ton of incompatibilities.
+ [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md "Alternative") | LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
+ [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockExtras.md "Alternative") | SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore violates [Mojang's EULA](https://account.mojang.com/documents/minecraft_eula), and has a ton of problems causing crashes and visual glitches, and the developer steals stuff and is an all around terrible person pepelaugh.
+ [**SkyblockCatia**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockCatia.md "Alternative") | Causes a ton of incompatibilities.
  **Skypixel** | Unmaintaned and no longer works for Skyblock.
  [**SpiderFrog's OAM**](https://sk1er.club/beta "Alternative") | has over 7mb of bloat and causes crashes. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta "Alternative") which is currently in beta.
  [**Orange Marshall's OAM**](https://sk1er.club/beta "Alternative") | doesnt look like 1.7, missing animations like old sneaking animation, overwrites many things unnecessarily causing other mods to break, like OptiFine's custom item texture. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta "Alternative") which is currently in beta.
