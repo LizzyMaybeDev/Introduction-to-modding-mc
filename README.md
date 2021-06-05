@@ -240,6 +240,7 @@
 - [chattriggers](https://discord.gg/chattriggers)
 - [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A)
 - [Powns](https://www.youtube.com/channel/UCSxujMqeSPkQ2mqbYhoAL6g)
+  [isXander discord](https://discord.gg/n2nNdf8YG2)
 </details> 
 
 ## Credits 
