@@ -233,7 +233,7 @@
 
 # Channels/discord servers for the mod creators, please consider supporting them for their hard work!
 - [Sk1er's discord](https://discord.gg/sk1er) / [Sk1er's support server](https://discord.gg/d4KFR9H) / [Sk1er's channel](https://www.youtube.com/user/skierboy711)
-- [Optifine](https://discord.com/invite/tKxWtyf)
+- [OptiFine](https://discord.com/invite/tKxWtyf)
 - [NEU](https://discord.gg/moulberry)
 - [Skytils](https://discord.gg/skytils)
 - [SkyblockAddons](https://discord.gg/XKfZz8JN26)
