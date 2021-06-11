@@ -30,7 +30,7 @@
  [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar "Download Optifine") | General visual and performance enhancing mod. | [sp614x](https://github.com/sp614x/ "Sp's Github") |
  [**Patcher**](https://sk1er.llc/mods/patcher "Download Patcher")| A mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements/optimizations, and tons of Vanilla bug fixes.| [asbyth](https://github.com/Asbyth "Their Github") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))|
  [**Old Animations Mod**](https://sk1er.club/beta "Download Sk1er's OAM") | Currently in beta and it already has an entire rewrite coming soon, its more accurate than any other OAM and made to be compatible with other mods. | [Llamalad7](https://github.com/Llamalad7 "Their Github"), [Moulberry](https://moulberry.codes "Moul's Website") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))|
- [**Powns Togglesprint**](https://download.powns.dev/togglesneak189 "Download Togglesprint") [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint "Download Togglesprint") | Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant. | [Powns](https://github.com/pownsgg "Powns' Github"), [Lily](https://github.com/My-Name-Is-Jeff/ "Lily's Github")
+ [**Powns Togglesprint**](https://download.powns.dev/togglesneak189 "Download Togglesprint") [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint "Download Togglesprint") [**SimpleToggleSprint (EvergreenHUD addon)**](https://github.com/wyvest/SimpleToggleSprint/releases/latest) | Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant. | [Powns](https://github.com/pownsgg "Powns' Github"), [Lily](https://github.com/My-Name-Is-Jeff/ "Lily's Github"), [Wyvest](https://github.com/wyvest "Wyvest's Github)
  [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM "Download Rpm") | Manage your resource packs with ease. | [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A "Aycy's Channel")
  [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll "Download Scrollable Tooltips") | Scrollable tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip is too long for the screen. | [Sk1er](https://github.com/sk1er/ "Sk1er's Github") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))
  [**Ingame Audio Device Switcher**](https://github.com/dreamhopping/AudioSwitcher/releases/tag/1.0.0 "Download IADS") | A mod for 1.8.9 and 1.12.2 that lets you choose your sound output device, without having to restart your game! | [Dreamhopping](https://github.com/dreamhopping/ "Their Github")
@@ -81,6 +81,7 @@
 [GlintColorizer](https://download.powns.dev/glintcolorizer189) | Allows for customizability with the enchanting glint color.
 [ParticleCustomizer](https://download.powns.dev/particlecustomiser189) | Allows complete customizability over particles.
 [Discraft](https://www.curseforge.com/minecraft/mc-mods/discraft-the-unofficial-minecraft-discord) | Discraft allows you to access Discord via an in-game web display, which makes it TOS compliant.
+[HeightLimitMod](https://www.curseforge.com/minecraft/mc-mods/height-limit-mod-1-8-9-forge/files/3301445) | HeightLimitMod shows an HUD for the current BedWars map, height limit, and blocks until height limit is reached. [Also available as an EvergreenHUD addon](https://github.com/pinkulu/HeightLimitMod/releases/tag/v1.1)
 </details>
 <details>
   <summary>Features you might be looking for</summary>
@@ -144,7 +145,7 @@
  **Schematica Mod** | [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147 "Download Schematica")
  **TeamSpeak Mod** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5Zig")
  **MumbleLink** | [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154 "Download Mumblelink")
- **TimerHUD** | [Wyvest's TimerHUD](https://github.com/wyvest/timer-mod-forge/releases/ "Download TimerHUD")
+ **TimerHUD / Stopwatch** | [Wyvest's TimerHUD](https://wyvest.net/timerhud.html "Download TimerHUD") [(also an EvergreenHUD addon)](https://wyvest.net/timergreen.html)
 </details> 
 <details>
   <summary>Recommended Skyblock Mods</summary>
