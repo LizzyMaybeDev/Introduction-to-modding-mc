@@ -197,7 +197,7 @@
  [**NoCloseMyChat**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**VoidChat**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**Fullbright**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
- [**Xander's Togglesprint**](https://download.powns.dev/togglesneak189 "Alternative") | the togglesprint had the cheat "KeepSprint".
+ [**isXander's Togglesprint**](https://download.powns.dev/togglesneak189 "Alternative") | The togglesprint had the cheat "KeepSprint". Although their later work is safe, it is not recommended to download their older mods.
  [**Mushway Particles Mod**](https://www.youtube.com/watch?v=0PPR_t-qyfw) | The famous particles mod sent extra attack packets with no swing packets in order to create more particles, causing tons of false bans and huge controversy surrounding the youtuber as youtubers such as tenebrous started talking about it.
 **JustEnoughDungeons (JED)** | The well-known dungeons mod that thrived from stealing other features from other mods ended up being token logged and caused damages for many players to lose their accounts and money, the owner later on addressed it and faked his ownership with another account disgusing as an "old friend" of the original owner then bypassing hypixel mod blacklist by changing the modid, then exposed very shortly after by [asbyth](https://twitter.com/asbythh/status/1340710212030836736)
 
@@ -242,6 +242,7 @@
 - [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A)
 - [Powns](https://www.youtube.com/channel/UCSxujMqeSPkQ2mqbYhoAL6g)
 - [isXander discord](https://discord.gg/n2nNdf8YG2)
+- [Pinkulu discord](https://discord.gg/Fykpshg)
 </details> 
 
 ## Credits 
