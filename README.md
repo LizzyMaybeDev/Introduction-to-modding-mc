@@ -82,6 +82,7 @@
 [GlintColorizer](https://download.powns.dev/glintcolorizer189) | Allows for customizability with the enchanting glint color.
 [ParticleCustomizer](https://download.powns.dev/particlecustomiser189) | Allows complete customizability over particles.
 [Discraft](https://www.curseforge.com/minecraft/mc-mods/discraft-the-unofficial-minecraft-discord) | Discraft allows you to access Discord via an in-game web display, which makes it TOS compliant.
+[Wyvest's Wyvtilities]https://github.com/wyvest/Wyvtilities/releases/latest) | Allows you to check GEXP easily, highlight your name in chat, and block discord invites in chat.
 </details>
 <details>
   <summary>Features you might be looking for</summary>
@@ -140,6 +141,7 @@
  **Timestamps** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Chat Messages Notifications** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5zig")
  **Chat Opacity** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
+ **Highlight Name in Chat** | [Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest)
  **Chat Size** | [Moulberry's Hychat](https://discord.gg/moulberry "Moulberry's Discord") / [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065 "Download BetterChat")
  **Replay Mod** | [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download/ "Download ReplayMod")
  **Schematica Mod** | [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147 "Download Schematica")
@@ -244,6 +246,7 @@
 - [Powns](https://www.youtube.com/channel/UCSxujMqeSPkQ2mqbYhoAL6g)
 - [isXander discord](https://discord.gg/n2nNdf8YG2)
 - [Pinkulu discord](https://discord.gg/Fykpshg)
+- [Wyvest discord](https://discord.gg/b6twapxC3T)
 </details> 
 
 ## Credits 
