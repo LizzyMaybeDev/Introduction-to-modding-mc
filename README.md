@@ -82,7 +82,7 @@
 [GlintColorizer](https://download.powns.dev/glintcolorizer189) | Allows for customizability with the enchanting glint color.
 [ParticleCustomizer](https://download.powns.dev/particlecustomiser189) | Allows complete customizability over particles.
 [Discraft](https://www.curseforge.com/minecraft/mc-mods/discraft-the-unofficial-minecraft-discord) | Discraft allows you to access Discord via an in-game web display, which makes it TOS compliant.
-[Wyvest's Wyvtilities]https://github.com/wyvest/Wyvtilities/releases/latest) | Allows you to check GEXP easily, highlight your name in chat, and block discord invites in chat.
+[Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest) | Allows you to check GEXP easily, highlight your name in chat, and block discord invites in chat.
 </details>
 <details>
   <summary>Features you might be looking for</summary>
