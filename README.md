@@ -157,7 +157,7 @@
 | Mod | Description |
 | --- | --- |
  [**Biscuit's SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest "Download SBA") | A mod with a bunch of QOL features for Skyblock. Version 1.6 is currently in development that will add more modern features.
- [**Moulberry's NotEnoughUpdates**](https://github.com/Moulberry/NotEnoughUpdates/releases "Download NEU") | This mod provides even more customization than SBA does and improves gameplay significantly. Version 2.0 is currently in development and can be downloaded on their [discord](https://discord.gg/moulberry "Moulberry's Discord") which adds many more features such as experimentation table solvers and fairy soul finder.
+ [**Moulberry's NotEnoughUpdates**](https://discord.gg/moulberry "Download NEU from #neu-updates") | This mod provides even more customization than SBA does and improves gameplay significantly. Version 2.0 is currently in development and can be downloaded on their [discord](https://discord.gg/moulberry "Moulberry's Discord") which adds many more features such as experimentation table solvers and fairy soul finder.
  [**Sychic & Lily's Skytils**](https://github.com/Skytils/SkytilsMod/releases/ "Download Skytils") | This mod provides many QOL features, along with dungeon specific features such as solvers, and waypoints for diana's burrows and relics.
  [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/ "Download DSM") | Provides some dungeon solvers that Skytils is missing as well as some other minor game improvements.
  [**Cow's Cowlection**](https://github.com/cow-mc/Cowlection/releases/ "Download Cowlections") | Mainly known for its dungeon party finder helper, this mod adds more miscelaneous features.
