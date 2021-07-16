@@ -62,7 +62,7 @@
  [**ReAuth**](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385 "Download ReAuth") | Fixes the problem of having to restart your client when your session is invalid & more.
  [**LinuxLWJGLKeyFix**](https://github.com/Vonr/LinuxLWJGLKeyFix "Download KeyFix") | Fixes a LWJGL bug causing incorrect registration of Shift+2 and Shift+6 on Linux systems.
  [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3071182 "Download Controlling") | Gives the controls menu a new UI allowing for easier editing and viewing.
- [**HeightLimitMod**](https://www.curseforge.com/minecraft/mc-mods/height-limit-mod-1-8-9-forge/files/3301445) | HeightLimitMod shows an HUD for the current BedWars map, height limit, and blocks until height limit is reached. [Also available as an EvergreenHUD addon](https://github.com/pinkulu/HeightLimitMod/releases/tag/v1.1).
+ [**HeightLimitMod**](https://www.curseforge.com/minecraft/mc-mods/height-limit-mod-1-8-9-forge/files/3301445) | HeightLimitMod shows an HUD for the current BedWars map, height limit, and blocks until height limit is reached.
  [**Smooth Scrolling Everywhere**](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files/2895468 "Download SSE") | Makes scrolling in menus much smoother and much less clunky.
  [**Popup Events**](https://sk1er.club/mods/popup_events "Download Popup events") | Allows for accepting or denying requests on Hypixel much more easily.
  [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0 "Download BPG") | A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected.
