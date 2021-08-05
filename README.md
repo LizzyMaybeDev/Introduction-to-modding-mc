@@ -29,14 +29,13 @@
 | --- | --- | --- |
  [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5.jar "Download Optifine") | General visual and performance enhancing mod. | [sp614x](https://github.com/sp614x/ "Sp's Github") |
  [**Patcher**](https://sk1er.llc/mods/patcher "Download Patcher")| A mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements/optimizations, and tons of Vanilla bug fixes.| [asbyth](https://github.com/Asbyth "Their Github") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))|
- [**HUDCaching**](https://github.com/Moulberry/MCHUDCaching/releases/ "Download HUDCaching")| An optimization mod which limits the framerate of your HUD to 20 FPS.| [Moulberry](https://github.com/Moulberry "Moul's Github")|
  [**Old Animations Mod**](https://sk1er.club/beta "Download Sk1er's OAM") | Currently in beta and it already has an entire rewrite coming soon, its more accurate than any other OAM and made to be compatible with other mods. | [Llamalad7](https://github.com/Llamalad7 "Their Github"), [Moulberry](https://moulberry.codes "Moul's Website") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))|
- [**Powns Togglesprint**](https://download.powns.dev/togglesneak189 "Download Togglesprint") [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint "Download Togglesprint") [**SimpleToggleSprint (EvergreenHUD addon)**](https://github.com/wyvest/SimpleToggleSprint/releases/latest) | Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant. | [Powns](https://github.com/pownsgg "Powns' Github"), [Lily](https://github.com/My-Name-Is-Jeff/ "Lily's Github"), [Wyvest](https://github.com/wyvest "Wyvest's Github")
+ [**Powns Togglesprint**](https://download.powns.dev/togglesneak189 "Download Togglesprint") [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint "Download Togglesprint") | Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant. | [Powns](https://github.com/pownsgg "Powns' Github"), [Lily](https://github.com/My-Name-Is-Jeff/ "Lily's Github")
  [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM "Download Rpm") | Manage your resource packs with ease. | [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A "Aycy's Channel")
  [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll "Download Scrollable Tooltips") | Scrollable tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip is too long for the screen. | [Sk1er](https://github.com/sk1er/ "Sk1er's Github") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))
- [**Ingame Audio Device Switcher**](https://github.com/dreamhopping/AudioSwitcher/releases/tag/1.0.0 "Download IADS") | A mod for 1.8.9 and 1.12.2 that lets you choose your sound output device, without having to restart your game! | [Dreamhopping](https://github.com/dreamhopping/ "Their Github")
+ [**Ingame Audio Device Switcher**](https://github.com/cbyrneee/AudioSwitcher/releases/tag/1.0.1 "Download IADS") | A mod for 1.8.9 and 1.12.2 that lets you choose your sound output device, without having to restart your game! | [cbyrneee](https://github.com/cbyrneee "Their Github")
  [**MCGeForce**](https://github.com/MCGeForce/MCGeForce) | MCGeForce is a Mod which allows you to use automatic NVIDIA Highlights on Hypixel, such as record highlight every kill, win, game. | [Dreamhopping](https://github.com/dreamhopping/ "Their Github")
- [**EvergreenHUD**](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD") | EvergreenHUD is a mod that allows you to add HUD elements to the game. It has over 25 HUD elements, supports addons, and more. | [isXander](https://github.com/isXander/ "Their GitHub")
+ [**EvergreenHUD**](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD") | EvergreenHUD is a mod that allows you to add HUD elements to the game. It has over 25 HUD elements, supports addons, and more. | [isXander](https://github.com/isXander/ "Their GitHub")
 
 | More | 
 | --- |
@@ -62,10 +61,9 @@
  [**ReAuth**](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385 "Download ReAuth") | Fixes the problem of having to restart your client when your session is invalid & more.
  [**LinuxLWJGLKeyFix**](https://github.com/Vonr/LinuxLWJGLKeyFix "Download KeyFix") | Fixes a LWJGL bug causing incorrect registration of Shift+2 and Shift+6 on Linux systems.
  [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3071182 "Download Controlling") | Gives the controls menu a new UI allowing for easier editing and viewing.
- [**HeightLimitMod**](https://www.curseforge.com/minecraft/mc-mods/height-limit-mod-1-8-9-forge/files/3301445) | HeightLimitMod shows an HUD for the current BedWars map, height limit, and blocks until height limit is reached.
+ [**HeightLimitMod**](https://modrinth.com/mod/hlm/versions) | HeightLimitMod shows an HUD for the current BedWars map, height limit, and blocks until height limit is reached.
  [**Smooth Scrolling Everywhere**](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files/2895468 "Download SSE") | Makes scrolling in menus much smoother and much less clunky.
  [**Popup Events**](https://sk1er.club/mods/popup_events "Download Popup events") | Allows for accepting or denying requests on Hypixel much more easily.
- [**BetterPacksGUI**](https://github.com/dreamhopping/BetterPacksGUI/releases/tag/1.0.0 "Download BPG") | A mod for 1.8.9 that automatically reloads the texture pack list when you add a new texture pack & allows you to delete/move packs once they are not selected.
  [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065 "Download BetterChat") | An overall awesome chat mod that lets you add smooth animations for messages and repositoning chat very easily as well as changing chat width and maybe more!
  [**Custom Sky mod**](https://www.youtube.com/watch?v=i8ZgEzpqdAM "Download Custom sky mod") | Allows you to easily change your custom sky within a GUI. |
  [**Cowlection**](https://github.com/cow-mc/Cowlection/releases "Download Cowlection") | A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod)..
@@ -83,7 +81,7 @@
 [GlintColorizer](https://download.powns.dev/glintcolorizer189) | Allows for customizability with the enchanting glint color.
 [ParticleCustomizer](https://download.powns.dev/particlecustomiser189) | Allows complete customizability over particles.
 [Discraft](https://www.curseforge.com/minecraft/mc-mods/discraft-the-unofficial-minecraft-discord) | Discraft allows you to access Discord via an in-game web display, which makes it TOS compliant.
-[Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest) | Allows you to check GEXP easily, highlight your name in chat, and block discord invites in chat.
+[Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest) | Allows you to check GEXP easily, highlight your name everywhere, and more.
 </details>
 <details>
   <summary>Features you might be looking for</summary>
@@ -91,26 +89,26 @@
 # Features you might be looking for
 | Feature | Mod |
 | --- | --- |
- **Armor Status** | [Powns's ArmorHud](https://download.powns.dev/armorhud189 "Download Armorhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
+ **Armor Status** | [Powns's ArmorHud](https://download.powns.dev/armorhud189 "Download Armorhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **AutoGG** | [Sk1er's AutoGG](https://sk1er.club/mods/autogg "Download Autogg")
  **Autotext** (Bannable on Hypixel) | [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839 "Download MacroKey")
  **AutoTip** | [Semx11 AutoTip](https://autotip.pro "Download Autotip")
- **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer")
- **CPS Counter/Keystrokes** | [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod "Download Keystrokes") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html "Download CPSMod") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
+ **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer") / [Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest)
+ **CPS Counter/Keystrokes** | [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod "Download Keystrokes") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html "Download CPSMod") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **Clear Chat** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
- **Combo Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (bad)") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
- **Coordinates** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (pls no)") / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073 "Download Batty's coords mod") / [Powns's Coords Hud](https://download.powns.dev/coordsmod189 "Download CoordsMod") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
+ **Combo Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (bad)") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
+ **Coordinates** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (pls no)") / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073 "Download Batty's coords mod") / [Powns's Coords Hud](https://download.powns.dev/coordsmod189 "Download CoordsMod") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **Crosshair Mod** | [Sparkless's Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/3347909 "Download CC")
- **Direction Mod** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download ChromaShit") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases)
+ **Direction Mod** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download ChromaShit") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions)
  **Enchant Glint** | [Powns's Glint Colorizer](https://download.powns.dev/glintcolorizer189 "Download Glint coloriszer")
  **FOV Changer** | [Sk1er's Patcher (/fov)](https://sk1er.club/mods/patcher "Download Patcher")
- **FPS Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (stop!)") / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod "Download Keystrokes") / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073 "Download Batty's coords mod") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
+ **FPS Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (stop!)") / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod "Download Keystrokes") / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073 "Download Batty's coords mod") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **Fullbright** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Ghost Liquid Fix** | [Powns's Lava Fix](https://download.powns.dev/lavafix189 "Download Powns' Lava Fix")
  **Hit Color** | [Aycy's Damage Tint](https://www.youtube.com/watch?v=ZK1C8iThJAA "Download Damage Tint")
  **Hitboxes** | [Sk1er's Old Animations](https://sk1er.club/beta "Download Sk1er's OAM") (adds back 1.7 style hitboxes) / [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar "Download HitBox Colo(u)r's")
  **Inventory Blur** | [tterrag's  Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/2665186 "Download tterrag's blur")
- **Ingame Server Switcher** | [Canalex's](https://www.youtube.com/watch?v=04EangMQd7I "Download ISS") / [Sk1er's  Patcher](https://sk1er.club/mods/patcher "Download Patcher") (currently logs you out)
+ **Ingame Server Switcher** | [Canalex's](https://www.youtube.com/watch?v=04EangMQd7I "Download ISS") / [Sk1er's  Patcher](https://sk1er.club/mods/patcher "Download Patcher") 
  **Item Counter** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Item Info** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Item Physics** | [CreativeMD's ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695 "Download ItemPhysics")
@@ -124,11 +122,11 @@
  **Particle Mod** | [Dewgs's ParticleMod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s "Download ParticleMod") / [Aycy's OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw "Download OnHitParticles")
  **Ping HUD** | [Senoe's Port](https://www.youtube.com/watch?v=NAsefZXZbHQ "Download PingHUD") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
  **Potion Status** | [Powns's PotionHud](https://download.powns.dev/potionhud189 "Download Potionhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromafuck") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
- **Reach Display** | [Dewgs's ReachDisplay](https://www.youtube.com/watch?v=myQKoGnCjxY "Download ReachDisplay") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
+ **Reach Display** | [Dewgs's ReachDisplay](https://www.youtube.com/watch?v=myQKoGnCjxY "Download ReachDisplay") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **ResourcePack** | [Aycy's Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM "Download RPM")
  **Saturation** | [RoccoDev's  5Zig Reborn](https://5zigreborn.eu/ "Download 5shit")
  **Scoreboard** | [Canelex & Powns Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs "Download SideBarMod")
- **Server Address HUD** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download ChromaDuck") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
+ **Server Address HUD** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download ChromaDuck") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **ShinyPots** | [RoccoDev's ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5 "Download ShinyPots")
  **Stopwatch** | [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073 "Download Batty's Coords mod")
  **Toggle Sneak** | [Powns's ToggleSneak](https://download.powns.dev/togglesneak189 "Download Togglesneak") / [SimpleTogglesprint](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint "Download ToggleSneak")
@@ -148,7 +146,7 @@
  **Schematica Mod** | [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147 "Download Schematica")
  **TeamSpeak Mod** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5Zig")
  **MumbleLink** | [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154 "Download Mumblelink")
- **TimerHUD / Stopwatch** | [Wyvest's TimerHUD](https://wyvest.net/timerhud.html "Download TimerHUD") [(also an EvergreenHUD addon)](https://wyvest.net/timergreen.html)
+ **TimerHUD / Stopwatch** | [Wyvest's TimerHUD](https://wyvest.net/timerhud.html "Download TimerHUD")
 </details> 
 <details>
   <summary>Recommended Skyblock Mods</summary>
@@ -156,12 +154,12 @@
 # Recommended Skyblock Mods
 | Mod | Description |
 | --- | --- |
- [**Biscuit's SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest "Download SBA") | A mod with a bunch of QOL features for Skyblock. Version 1.6 is currently in development that will add more modern features.
+ [**Biscuit's SkyblockAddons**](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest "Download SBA") | A mod with a bunch of QOL features for Skyblock.
  [**Moulberry's NotEnoughUpdates**](https://discord.gg/moulberry "Download NEU from #neu-updates") | This mod provides even more customization than SBA does and improves gameplay significantly. Version 2.0 is currently in development and can be downloaded on their [discord](https://discord.gg/moulberry "Moulberry's Discord") which adds many more features such as experimentation table solvers and fairy soul finder.
  [**Sychic & Lily's Skytils**](https://github.com/Skytils/SkytilsMod/releases/ "Download Skytils") | This mod provides many QOL features, along with dungeon specific features such as solvers, and waypoints for diana's burrows and relics.
  [**Danker's Skyblock Mod**](https://github.com/bowser0000/SkyblockMod/ "Download DSM") | Provides some dungeon solvers that Skytils is missing as well as some other minor game improvements.
  [**Cow's Cowlection**](https://github.com/cow-mc/Cowlection/releases/ "Download Cowlections") | Mainly known for its dungeon party finder helper, this mod adds more miscelaneous features.
- [**DJtheRedstoner's YetAnotherSkyblockMod**](https://github.com/DJtheRedstoner/YetAnotherSkyblockMod/releases/tag/v1.3 "Download YASM") | Allows for toggling certain features of other mods while in skyblock to remove unnecessary clutter.
+ [**DJtheRedstoner's YetAnotherSkyblockMod**](https://github.com/DJtheRedstoner/YetAnotherSkyblockMod/releases/latest "Download YASM") | Allows for toggling certain features of other mods while in skyblock to remove unnecessary clutter.
 </details> 
 <details>
   <summary>Mods you should avoid</summary>
