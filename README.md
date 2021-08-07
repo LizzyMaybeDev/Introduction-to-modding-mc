@@ -49,7 +49,7 @@
 | Mod | Description |
 | --- | --- |
  [**Revamped Timechanger**](https://hypixel.net/threads/forge-1-8-9-timechanger-2-2-1-an-improved-timechanger-mod.3574261/ "Download Timechanger") | A mod for changing time client-side.
- [**ChatTriggers**](https://chattriggers.com/ "Download CT") | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. In other words, it's a mod that allows you to use javascript for stuff, and has tons of useful modules on their website. Please download the latest stable 1.3.1 release.
+ [**ChatTriggers**](https://chattriggers.com/ "Download CT") | ChatTriggers is a framework for Minecraft that allows for live scripting and client modification using JavaScript. In other words, it's a mod that allows you to use javascript for stuff, and has tons of useful modules on their website. Please download the latest stable 1.3.2 release.
  [**MiniInfo**](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") | Simple mod to display FPS, CPS, and ping by Aycy.
  [**ResourcePackDisplay**](https://github.com/1fxe/Resource-Pack-Display/releases/ "Download RPD") | (Not to be confused with Resourcepack Manager) Display current pack, the mod also has the /rpd random command to randomly choose a pack from your packs folder with detection for incompatible and duplicate packs.
  [**OnHitParticles**](https://www.youtube.com/watch?v=0PPR_t-qyfw "Download OHP") | A mod to change what particles are shown when you hit someone with great customizability by Aycy.
