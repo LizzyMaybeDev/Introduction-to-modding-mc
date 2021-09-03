@@ -250,7 +250,8 @@
 
 ## Credits 
 Huge credits to:
-[<img src="https://user-images.githubusercontent.com/74936369/119580954-14c13700-bdb1-11eb-9760-b656d7350390.png" width="100px;" /><br />Regex](https://regex.rest/) | [<img src="https://avatars.githubusercontent.com/u/66657148?v=4" width="100px;" /><br />Microcontrollers](https://github.com/MicrocontrollersDev/)<br /> | [<img src="https://avatars.githubusercontent.com/u/45434286?v=4" width="100px;" /><br />Systemless](https://github.com/SystemlessDev/) | [<img src="https://avatars.githubusercontent.com/u/69869443?v=4" width="100px;" /><br />Proudmuslim](https://github.com/proudmuslim-dev) | [<img src="https://avatars.githubusercontent.com/u/36578995?v=4" width="100px;" /><br />asbyth](https://github.com/asbyth/)
+
+[<img src="https://user-images.githubusercontent.com/74936369/119580954-14c13700-bdb1-11eb-9760-b656d7350390.png" width="100px;" /><br />Regex](https://regex.rest/) | [<img src="https://avatars.githubusercontent.com/u/66657148?v=4" width="100px;" /><br />Microcontrollers](https://github.com/MicrocontrollersDev/)<br /> | [<img src="https://avatars.githubusercontent.com/u/45434286?v=4" width="100px;" /><br />Systemless](https://github.com/SystemlessDev/) | [<img src="https://avatars.githubusercontent.com/u/69869443?v=4" width="100px;" /><br />Proudmuslim](https://github.com/proudmuslim-dev) | [<img src="https://avatars.githubusercontent.com/u/36578995?v=4" width="100px;" /><br />chimp](https://github.com/asbyth/) | 
 | :---: | :---: | :---: | :---: | :---: |
 ## Monkey
 - [Beta funky monkey](https://www.mediafire.com/file/12eb8ovexleblrw/funky+monkey+1.0.jar/file "Run the funky monkey 1.0!!")
