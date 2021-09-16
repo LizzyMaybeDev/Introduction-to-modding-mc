@@ -29,7 +29,7 @@
 | --- | --- | --- |
  [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5.jar "Download Optifine") | General visual and performance enhancing mod. | [sp614x](https://github.com/sp614x/ "Sp's Github") |
  [**Patcher**](https://sk1er.llc/mods/patcher "Download Patcher")| A mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements/optimizations, and tons of Vanilla bug fixes.| [asbyth](https://github.com/Asbyth "Their Github") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))|
- [**Old Animations Mod**](https://sk1er.club/beta "Download Sk1er's OAM") | Currently in beta and it already has an entire rewrite coming soon, its more accurate than any other OAM and made to be compatible with other mods. | [Llamalad7](https://github.com/Llamalad7 "Their Github"), [Moulberry](https://moulberry.codes "Moul's Website") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))|
+ [**Old Animations Mod**](https://sk1er.club/beta "Download Sk1er's OAM") | Currently in beta. More accurate than any other OAM as it uses actual 1.7 code and made to be compatible with other mods. | [Llamalad7](https://github.com/Llamalad7 "Their Github"), [Moulberry](https://moulberry.codes "Moul's Website") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))|
  [**Powns Togglesprint**](https://download.powns.dev/togglesneak189 "Download Togglesprint") [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint "Download Togglesprint") | Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant. | [Powns](https://github.com/pownsgg "Powns' Github"), [Lily](https://github.com/My-Name-Is-Jeff/ "Lily's Github")
  [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM "Download Rpm") | Manage your resource packs with ease. | [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A "Aycy's Channel")
  [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll "Download Scrollable Tooltips") | Scrollable tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip is too long for the screen. | [Sk1er](https://github.com/sk1er/ "Sk1er's Github") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))
@@ -81,7 +81,7 @@
 [GlintColorizer](https://download.powns.dev/glintcolorizer189) | Allows for customizability with the enchanting glint color.
 [ParticleCustomizer](https://download.powns.dev/particlecustomiser189) | Allows complete customizability over particles.
 [Discraft](https://www.curseforge.com/minecraft/mc-mods/discraft-the-unofficial-minecraft-discord) | Discraft allows you to access Discord via an in-game web display, which makes it TOS compliant.
-[Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest) | Allows you to check GEXP easily, highlight your name everywhere, and more.
+[Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest) | Allows you to check GEXP easily, highlight your name everywhere, customize vanilla HUDs such as the action bar and more.
 </details>
 <details>
   <summary>Features you might be looking for</summary>
@@ -91,9 +91,10 @@
 | --- | --- |
  **Armor Status** | [Powns's ArmorHud](https://download.powns.dev/armorhud189 "Download Armorhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **AutoGG** | [Sk1er's AutoGG](https://sk1er.club/mods/autogg "Download Autogg")
+ **Actionbar** | [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest) (lets you move the position and turn it off) / [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Patcher](https://sk1er.club/mods/patcher)
  **Autotext** (Bannable on Hypixel) | [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839 "Download MacroKey")
  **AutoTip** | [Semx11 AutoTip](https://autotip.pro "Download Autotip")
- **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer") / [Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest)
+ **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer") / [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest)
  **CPS Counter/Keystrokes** | [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod "Download Keystrokes") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html "Download CPSMod") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **Clear Chat** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Combo Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (bad)") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
@@ -106,7 +107,7 @@
  **Fullbright** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Ghost Liquid Fix** | [Powns's Lava Fix](https://download.powns.dev/lavafix189 "Download Powns' Lava Fix")
  **Hit Color** | [Aycy's Damage Tint](https://www.youtube.com/watch?v=ZK1C8iThJAA "Download Damage Tint")
- **Hitboxes** | [Sk1er's Old Animations](https://sk1er.club/beta "Download Sk1er's OAM") (adds back 1.7 style hitboxes) / [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar "Download HitBox Colo(u)r's")
+ **Hitboxes** | [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta "Download Sk1er's OAM") (adds back 1.7 style hitboxes) /  [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar "Download HitBox Colo(u)r's")
  **Inventory Blur** | [tterrag's  Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/2665186 "Download tterrag's blur")
  **Ingame Server Switcher** | [Canalex's](https://www.youtube.com/watch?v=04EangMQd7I "Download ISS") / [Sk1er's  Patcher](https://sk1er.club/mods/patcher "Download Patcher") 
  **Item Counter** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
@@ -118,7 +119,7 @@
  **MiniMap** (!!! Bannable on Hypixel !!!) | [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202 "Download VoxelMap") (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890 "Download LiteLoader")) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867 "Download Journey Map") / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap "Download MiniMap")
  **Motion Blur** | [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod "Download Motionblur")
  **Nick Hider** | [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider "Download NickHider")
- **Pack Display** | [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/tag/1.2 "Download RPD") / [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk "Download RPD")
+ **Pack Display** | [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest "Download RPD") / [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk "Download RPD")
  **Particle Mod** | [Dewgs's ParticleMod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s "Download ParticleMod") / [Aycy's OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw "Download OnHitParticles")
  **Ping HUD** | [Senoe's Port](https://www.youtube.com/watch?v=NAsefZXZbHQ "Download PingHUD") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
  **Potion Status** | [Powns's PotionHud](https://download.powns.dev/potionhud189 "Download Potionhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromafuck") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
@@ -140,13 +141,13 @@
  **Timestamps** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Chat Messages Notifications** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5zig")
  **Chat Opacity** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
- **Highlight Name in Chat** | [Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest)
+ **Highlight Name in Chat** | [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest)
  **Chat Size** | [Moulberry's Hychat](https://discord.gg/moulberry "Moulberry's Discord") / [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065 "Download BetterChat")
  **Replay Mod** | [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download/ "Download ReplayMod")
  **Schematica Mod** | [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147 "Download Schematica")
  **TeamSpeak Mod** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5Zig")
  **MumbleLink** | [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154 "Download Mumblelink")
- **TimerHUD / Stopwatch** | [Wyvest's TimerHUD](https://wyvest.net/timerhud.html "Download TimerHUD")
+ **TimerHUD / Stopwatch** | [Wyvest's TimerHUD](https://github.com/Qalcyo/TimerHUD/releases/latest "Download TimerHUD")
 </details> 
 <details>
   <summary>Recommended Skyblock Mods</summary>
@@ -245,7 +246,7 @@
 - [Powns](https://www.youtube.com/channel/UCSxujMqeSPkQ2mqbYhoAL6g)
 - [isXander discord](https://discord.gg/n2nNdf8YG2)
 - [Pinkulu discord](https://discord.gg/Fykpshg)
-- [Wyvest discord](https://discord.gg/b6twapxC3T)
+- [Qalcyo Discord](https://inv.wtf/qalcyo)
 </details> 
 
 ## Credits 
