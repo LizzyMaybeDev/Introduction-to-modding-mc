@@ -29,7 +29,7 @@
 | --- | --- | --- |
  [**OptiFine**](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5.jar "Download Optifine") | General visual and performance enhancing mod. | [sp614x](https://github.com/sp614x/ "Sp's Github") |
  [**Patcher**](https://sk1er.llc/mods/patcher "Download Patcher")| A mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements/optimizations, and tons of Vanilla bug fixes.| [asbyth](https://github.com/Asbyth "Their Github") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))|
- [**Old Animations Mod**](https://sk1er.club/beta "Download Sk1er's OAM") | Currently in beta and it already has an entire rewrite coming soon, its more accurate than any other OAM and made to be compatible with other mods. | [Llamalad7](https://github.com/Llamalad7 "Their Github"), [Moulberry](https://moulberry.codes "Moul's Website") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))|
+ [**Old Animations Mod**](https://sk1er.club/beta "Download Sk1er's OAM") | Currently in beta. More accurate than any other OAM as it uses actual 1.7 code and made to be compatible with other mods. | [Llamalad7](https://github.com/Llamalad7 "Their Github"), [Moulberry](https://moulberry.codes "Moul's Website") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))|
  [**Powns Togglesprint**](https://download.powns.dev/togglesneak189 "Download Togglesprint") [**SimpleTogglesprint**](https://github.com/My-Name-Is-Jeff/SimpleToggleSprint "Download Togglesprint") | Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above, but does not allow for sneaking in inventories in order to be 1.8 compliant. | [Powns](https://github.com/pownsgg "Powns' Github"), [Lily](https://github.com/My-Name-Is-Jeff/ "Lily's Github")
  [**Resourcepack Manager**](https://www.youtube.com/watch?v=OQZFWrrEcYM "Download Rpm") | Manage your resource packs with ease. | [Aycy](https://www.youtube.com/channel/UCvAKYshTxWO7ougF4z2U2-A "Aycy's Channel")
  [**Scrollable Tooltips**](https://sk1er.club/mods/text_overflow_scroll "Download Scrollable Tooltips") | Scrollable tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip is too long for the screen. | [Sk1er](https://github.com/sk1er/ "Sk1er's Github") ([Sk1er LLC](https://github.com/sk1erllc/ "Sk1erLLC Github"))
@@ -91,6 +91,7 @@
 | --- | --- |
  **Armor Status** | [Powns's ArmorHud](https://download.powns.dev/armorhud189 "Download Armorhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **AutoGG** | [Sk1er's AutoGG](https://sk1er.club/mods/autogg "Download Autogg")
+ **Actionbar** | [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest) (lets you move the position and turn it off / [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Patcher](https://sk1er.club/mods/patcher)
  **Autotext** (Bannable on Hypixel) | [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839 "Download MacroKey")
  **AutoTip** | [Semx11 AutoTip](https://autotip.pro "Download Autotip")
  **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer") / [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest)
@@ -106,7 +107,7 @@
  **Fullbright** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Ghost Liquid Fix** | [Powns's Lava Fix](https://download.powns.dev/lavafix189 "Download Powns' Lava Fix")
  **Hit Color** | [Aycy's Damage Tint](https://www.youtube.com/watch?v=ZK1C8iThJAA "Download Damage Tint")
- **Hitboxes** | [Sk1er's Old Animations](https://sk1er.club/beta "Download Sk1er's OAM") (adds back 1.7 style hitboxes) / [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar "Download HitBox Colo(u)r's")
+ **Hitboxes** | [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta "Download Sk1er's OAM") (adds back 1.7 style hitboxes) /  [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar "Download HitBox Colo(u)r's")
  **Inventory Blur** | [tterrag's  Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/2665186 "Download tterrag's blur")
  **Ingame Server Switcher** | [Canalex's](https://www.youtube.com/watch?v=04EangMQd7I "Download ISS") / [Sk1er's  Patcher](https://sk1er.club/mods/patcher "Download Patcher") 
  **Item Counter** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
@@ -118,7 +119,7 @@
  **MiniMap** (!!! Bannable on Hypixel !!!) | [MamiyaOtaru's VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202 "Download VoxelMap") (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890 "Download LiteLoader")) / [Techbrew & Mysticdrew's JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867 "Download Journey Map") / [Powns's Simple MiniMap](https://github.com/pownsgg/MiniMap "Download MiniMap")
  **Motion Blur** | [Sk1er's Motionblur](https://sk1er.club/mods/motionblurmod "Download Motionblur")
  **Nick Hider** | [Sk1er's NickHider](https://www.sk1er.club/mods/nick_hider "Download NickHider")
- **Pack Display** | [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/tag/1.2 "Download RPD") / [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk "Download RPD")
+ **Pack Display** | [Filip's ResourcePack Display](https://github.com/1fxe/Resource-Pack-Display/releases/latest "Download RPD") / [Canalex's Pack Display](https://www.youtube.com/watch?v=LeDNOdOdGyk "Download RPD")
  **Particle Mod** | [Dewgs's ParticleMod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s "Download ParticleMod") / [Aycy's OnHitParticles](https://www.youtube.com/watch?v=0PPR_t-qyfw "Download OnHitParticles")
  **Ping HUD** | [Senoe's Port](https://www.youtube.com/watch?v=NAsefZXZbHQ "Download PingHUD") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
  **Potion Status** | [Powns's PotionHud](https://download.powns.dev/potionhud189 "Download Potionhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromafuck") / [isXander's EvergreenHUD](https://github.com/isXander/EvergreenHUD/releases "Download EvergreenHUD")
@@ -245,7 +246,7 @@
 - [Powns](https://www.youtube.com/channel/UCSxujMqeSPkQ2mqbYhoAL6g)
 - [isXander discord](https://discord.gg/n2nNdf8YG2)
 - [Pinkulu discord](https://discord.gg/Fykpshg)
-- [Wyvest discord](https://discord.gg/b6twapxC3T)
+- [Qalcyo Discord](https://inv.wtf/qalcyo)
 </details> 
 
 ## Credits 
