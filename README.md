@@ -81,7 +81,7 @@
 [GlintColorizer](https://download.powns.dev/glintcolorizer189) | Allows for customizability with the enchanting glint color.
 [ParticleCustomizer](https://download.powns.dev/particlecustomiser189) | Allows complete customizability over particles.
 [Discraft](https://www.curseforge.com/minecraft/mc-mods/discraft-the-unofficial-minecraft-discord) | Discraft allows you to access Discord via an in-game web display, which makes it TOS compliant.
-[Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest) | Allows you to check GEXP easily, highlight your name everywhere, and more.
+[Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest) | Allows you to check GEXP easily, highlight your name everywhere, customize vanilla HUDs such as the action bar and more.
 </details>
 <details>
   <summary>Features you might be looking for</summary>
@@ -93,7 +93,7 @@
  **AutoGG** | [Sk1er's AutoGG](https://sk1er.club/mods/autogg "Download Autogg")
  **Autotext** (Bannable on Hypixel) | [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839 "Download MacroKey")
  **AutoTip** | [Semx11 AutoTip](https://autotip.pro "Download Autotip")
- **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer") / [Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest)
+ **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer") / [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest)
  **CPS Counter/Keystrokes** | [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod "Download Keystrokes") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html "Download CPSMod") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **Clear Chat** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Combo Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (bad)") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
@@ -140,13 +140,13 @@
  **Timestamps** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Chat Messages Notifications** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5zig")
  **Chat Opacity** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
- **Highlight Name in Chat** | [Wyvest's Wyvtilities](https://github.com/wyvest/Wyvtilities/releases/latest)
+ **Highlight Name in Chat** | [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest)
  **Chat Size** | [Moulberry's Hychat](https://discord.gg/moulberry "Moulberry's Discord") / [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065 "Download BetterChat")
  **Replay Mod** | [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download/ "Download ReplayMod")
  **Schematica Mod** | [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147 "Download Schematica")
  **TeamSpeak Mod** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5Zig")
  **MumbleLink** | [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154 "Download Mumblelink")
- **TimerHUD / Stopwatch** | [Wyvest's TimerHUD](https://wyvest.net/timerhud.html "Download TimerHUD")
+ **TimerHUD / Stopwatch** | [Wyvest's TimerHUD](https://github.com/Qalcyo/TimerHUD/releases/latest "Download TimerHUD")
 </details> 
 <details>
   <summary>Recommended Skyblock Mods</summary>
