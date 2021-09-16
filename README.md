@@ -91,7 +91,7 @@
 | --- | --- |
  **Armor Status** | [Powns's ArmorHud](https://download.powns.dev/armorhud189 "Download Armorhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **AutoGG** | [Sk1er's AutoGG](https://sk1er.club/mods/autogg "Download Autogg")
- **Actionbar** | [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest) (lets you move the position and turn it off) / [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [Patcher](https://sk1er.club/mods/patcher)
+ **Actionbar** | [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest "Download Qaltikesksds") (lets you move the position and turn it off) / [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest "Download Skytils") / [Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Autotext** (Bannable on Hypixel) | [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839 "Download MacroKey")
  **AutoTip** | [Semx11 AutoTip](https://autotip.pro "Download Autotip")
  **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer") / [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest)
