@@ -53,13 +53,11 @@
  [**MiniInfo**](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") | Simple mod to display FPS, CPS, and ping by Aycy.
  [**ResourcePackDisplay**](https://github.com/1fxe/Resource-Pack-Display/releases/ "Download RPD") | (Not to be confused with Resourcepack Manager) Display current pack, the mod also has the /rpd random command to randomly choose a pack from your packs folder with detection for incompatible and duplicate packs.
  [**OnHitParticles**](https://www.youtube.com/watch?v=0PPR_t-qyfw "Download OHP") | A mod to change what particles are shown when you hit someone with great customizability by Aycy.
- [**Damage Tint**](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/ "Download Damage Tint") | A mod change the damage tint when you hit someone by Aycy.
+ [**Damage Tint**](https://github.com/Qalcyo/DamageTint/releases/latest "Download Damage Tint") | A mod change the damage tint when you hit someone by Qalcyo, original idea by Aycy
  [**Block Overlay**](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/ "Download Block Overlay") | A mod to change the block outline when you hover over blocks with complete customizability over the outline and a very nice unique GUI with live preview. Most people use the old powns continuation of the mod but the original mod has been updated.
- [**DJPerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4 "Download Perspectivemod") | A remake of canalex's perspective mod with bugfixes.
+ [**DJPerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4 "Download Perspectivemod") | A remake of canalex's perspective mod with bugfixes. **BANNABLE ON HYPIXEL**
  [**Quickplay**](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/ "Download Quickplay") | A mod to quickly join hypixel games & sort them to keybinds.
  [SkinChanger](https://no.boomy.wtf/?name=SkinChanger&version=3.0.88) | A mod which allows players to change their cape and skin directly from an in-game menu.
- [**ReAuth**](https://www.curseforge.com/minecraft/mc-mods/reauth/download/2433385 "Download ReAuth") | Fixes the problem of having to restart your client when your session is invalid & more.
- [**LinuxLWJGLKeyFix**](https://github.com/Vonr/LinuxLWJGLKeyFix "Download KeyFix") | Fixes a LWJGL bug causing incorrect registration of Shift+2 and Shift+6 on Linux systems.
  [**Controlling**](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3071182 "Download Controlling") | Gives the controls menu a new UI allowing for easier editing and viewing.
  [**HeightLimitMod**](https://modrinth.com/mod/hlm/versions) | HeightLimitMod shows an HUD for the current BedWars map, height limit, and blocks until height limit is reached.
  [**Smooth Scrolling Everywhere**](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere/files/2895468 "Download SSE") | Makes scrolling in menus much smoother and much less clunky.
@@ -81,7 +79,7 @@
 [GlintColorizer](https://download.powns.dev/glintcolorizer189) | Allows for customizability with the enchanting glint color.
 [ParticleCustomizer](https://download.powns.dev/particlecustomiser189) | Allows complete customizability over particles.
 [Discraft](https://www.curseforge.com/minecraft/mc-mods/discraft-the-unofficial-minecraft-discord) | Discraft allows you to access Discord via an in-game web display, which makes it TOS compliant.
-[Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest) | Allows you to check GEXP easily, highlight your name everywhere, customize vanilla HUDs such as the action bar and more.
+[Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest) | Allows you to check GEXP easily, highlight your name everywhere, customize vanilla HUDs such as the action bar and more.
 </details>
 <details>
   <summary>Features you might be looking for</summary>
@@ -91,10 +89,10 @@
 | --- | --- |
  **Armor Status** | [Powns's ArmorHud](https://download.powns.dev/armorhud189 "Download Armorhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **AutoGG** | [Sk1er's AutoGG](https://sk1er.club/mods/autogg "Download Autogg")
- **Actionbar** | [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest "Download Qaltikesksds") (lets you move the position and turn it off) / [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest "Download Skytils") / [Patcher](https://sk1er.club/mods/patcher "Download Patcher")
+ **Actionbar** | [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest "Download Wyvtils") (lets you move the position and turn it off) / [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest "Download Skytils") / [Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Autotext** (Bannable on Hypixel) | [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839 "Download MacroKey")
  **AutoTip** | [Semx11 AutoTip](https://autotip.pro "Download Autotip")
- **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer") / [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest)
+ **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer") / [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest)
  **CPS Counter/Keystrokes** | [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod "Download Keystrokes") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html "Download CPSMod") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **Clear Chat** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Combo Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (bad)") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
@@ -107,7 +105,7 @@
  **Fullbright** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Ghost Liquid Fix** | [Powns's Lava Fix](https://download.powns.dev/lavafix189 "Download Powns' Lava Fix")
  **Hit Color** | [Aycy's Damage Tint](https://www.youtube.com/watch?v=ZK1C8iThJAA "Download Damage Tint")
- **Hitboxes** | [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta "Download Sk1er's OAM") (adds back 1.7 style hitboxes) /  [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar "Download HitBox Colo(u)r's")
+ **Hitboxes** | [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta "Download Sk1er's OAM") (adds back 1.7 style hitboxes) /  [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar "Download HitBox Colo(u)r's")
  **Inventory Blur** | [tterrag's  Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/2665186 "Download tterrag's blur")
  **Ingame Server Switcher** | [Canalex's](https://www.youtube.com/watch?v=04EangMQd7I "Download ISS") / [Sk1er's  Patcher](https://sk1er.club/mods/patcher "Download Patcher") 
  **Item Counter** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
@@ -141,13 +139,13 @@
  **Timestamps** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Chat Messages Notifications** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5zig")
  **Chat Opacity** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
- **Highlight Name in Chat** | [Qaltils](https://github.com/Qalcyo/Qaltils/releases/latest)
+ **Highlight Name in Chat** | [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest)
  **Chat Size** | [Moulberry's Hychat](https://discord.gg/moulberry "Moulberry's Discord") / [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065 "Download BetterChat")
  **Replay Mod** | [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download/ "Download ReplayMod")
  **Schematica Mod** | [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147 "Download Schematica")
  **TeamSpeak Mod** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5Zig")
  **MumbleLink** | [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154 "Download Mumblelink")
- **TimerHUD / Stopwatch** | [Wyvest's TimerHUD](https://github.com/Qalcyo/TimerHUD/releases/latest "Download TimerHUD")
+ **TimerHUD / Stopwatch** | [TimerHUD](https://github.com/Qalcyo/TimerHUD/releases/latest "Download TimerHUD")
 </details> 
 <details>
   <summary>Recommended Skyblock Mods</summary>
