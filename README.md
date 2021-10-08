@@ -145,7 +145,7 @@
  **Schematica Mod** | [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147 "Download Schematica")
  **TeamSpeak Mod** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5Zig")
  **MumbleLink** | [snipingcoward's MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154 "Download Mumblelink")
- **TimerHUD / Stopwatch** | [TimerHUD](https://github.com/Qalcyo/TimerHUD/releases/latest "Download TimerHUD")
+ **TimerHUD / Stopwatch** | [Qalcyo's TimerHUD](https://github.com/Qalcyo/TimerHUD/releases/latest "Download TimerHUD")
 </details> 
 <details>
   <summary>Recommended Skyblock Mods</summary>
