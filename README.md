@@ -79,7 +79,7 @@
 [GlintColorizer](https://download.powns.dev/glintcolorizer189) | Allows for customizability with the enchanting glint color.
 [ParticleCustomizer](https://download.powns.dev/particlecustomiser189) | Allows complete customizability over particles.
 [Discraft](https://www.curseforge.com/minecraft/mc-mods/discraft-the-unofficial-minecraft-discord) | Discraft allows you to access Discord via an in-game web display, which makes it TOS compliant.
-[Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest) | Allows you to check GEXP easily, highlight your name everywhere, customize vanilla HUDs such as the action bar and more.
+[Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest) | Allows you to check GEXP easily, highlight your name everywhere, customize vanilla HUDs such as the action bar and more.
 </details>
 <details>
   <summary>Features you might be looking for</summary>
@@ -89,10 +89,10 @@
 | --- | --- |
  **Armor Status** | [Powns's ArmorHud](https://download.powns.dev/armorhud189 "Download Armorhud") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **AutoGG** | [Sk1er's AutoGG](https://sk1er.club/mods/autogg "Download Autogg")
- **Actionbar** | [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest "Download Wyvtils") (lets you move the position and turn it off) / [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest "Download Skytils") / [Patcher](https://sk1er.club/mods/patcher "Download Patcher")
+ **Actionbar** | [Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest "Download Wyvtils") (lets you move the position and turn it off) / [Skytils](https://github.com/Skytils/SkytilsMod/releases/latest "Download Skytils") / [Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Autotext** (Bannable on Hypixel) | [MattsOnMC's MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839 "Download MacroKey")
  **AutoTip** | [Semx11 AutoTip](https://autotip.pro "Download Autotip")
- **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer") / [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest)
+ **Bossbar** | [Sk1er's Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer "Download BossBar Customizer") / [Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest)
  **CPS Counter/Keystrokes** | [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod "Download Keystrokes") / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (dont)") / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html "Download CPSMod") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **Clear Chat** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Combo Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (bad)") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
@@ -104,8 +104,8 @@
  **FPS Counter** | [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD "Download Chromahud (stop!)") / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod "Download Keystrokes") / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073 "Download Batty's coords mod") / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") / [isXander's EvergreenHUD](https://modrinth.com/mod/evergreenhud/versions "Download EvergreenHUD")
  **Fullbright** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Ghost Liquid Fix** | [Powns's Lava Fix](https://download.powns.dev/lavafix189 "Download Powns' Lava Fix")
- **Hit Color** | [Aycy's Damage Tint](https://www.youtube.com/watch?v=ZK1C8iThJAA "Download Damage Tint")
- **Hitboxes** | [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta "Download Sk1er's OAM") (adds back 1.7 style hitboxes) /  [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar "Download HitBox Colo(u)r's")
+ **Hit Color** | [Qalcyo's DamageTint](https://github.com/Qalcyo/DamageTint/releases/latest)
+ **Hitboxes** | [Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest) / [Sk1er's Old Animations](https://sk1er.club/beta "Download Sk1er's OAM") (adds back 1.7 style hitboxes) /  [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar "Download HitBox Colo(u)r's")
  **Inventory Blur** | [tterrag's  Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/2665186 "Download tterrag's blur")
  **Ingame Server Switcher** | [Canalex's](https://www.youtube.com/watch?v=04EangMQd7I "Download ISS") / [Sk1er's  Patcher](https://sk1er.club/mods/patcher "Download Patcher") 
  **Item Counter** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
@@ -139,7 +139,7 @@
  **Timestamps** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
  **Chat Messages Notifications** | [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Download 5zig")
  **Chat Opacity** | [Sk1er's Patcher](https://sk1er.club/mods/patcher "Download Patcher")
- **Highlight Name in Chat** | [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest)
+ **Highlight Name in Chat** | [Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest)
  **Chat Size** | [Moulberry's Hychat](https://discord.gg/moulberry "Moulberry's Discord") / [**BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat/files/3249065 "Download BetterChat")
  **Replay Mod** | [CrushedPixel & johni0702's Replay Mod](https://www.replaymod.com/download/ "Download ReplayMod")
  **Schematica Mod** | [Lunatrius's Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica/files/2279147 "Download Schematica")
