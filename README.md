@@ -79,7 +79,7 @@
 [GlintColorizer](https://download.powns.dev/glintcolorizer189) | Allows for customizability with the enchanting glint color.
 [ParticleCustomizer](https://download.powns.dev/particlecustomiser189) | Allows complete customizability over particles.
 [Discraft](https://www.curseforge.com/minecraft/mc-mods/discraft-the-unofficial-minecraft-discord) | Discraft allows you to access Discord via an in-game web display, which makes it TOS compliant.
-[Qalcyo's Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/latest) | Allows you to check GEXP easily, highlight your name everywhere, customize vanilla HUDs such as the action bar and more.
+[Wyvest's Wyvtils](https://github.com/Wyvest/Wyvtils/releases/latest) | Allows you to check GEXP easily, highlight your name everywhere, customize vanilla HUDs such as the action bar and more.
 </details>
 <details>
   <summary>Features you might be looking for</summary>
