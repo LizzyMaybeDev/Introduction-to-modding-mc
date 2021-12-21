@@ -209,7 +209,7 @@
 # Common Issues [WIP]
 | Issue | Explanation |
 | --- | --- |
- **Old Hytilities** | It has been discontinued by Asbyth, and is no longer able to work. The updated version by Wyvest can be found [here.](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases)
+ **Old Hytilities** | It has been discontinued by asbyth [Sk1erLLC], and is no longer able to work. The updated version by Wyvest can be found [here.](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases)
  **Connected textures** | OptiFine 1.8.9 currently has an issue with connected textures causing crashes. Only "Fancy" is effected, so use "Fast" instead.
  **Abandoned 5Zig** | The old 5Zig can cause a lot of issues due to it no longer being maintained. It is recommended that you switch to [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Alternative") instead.
  **Having ModCore in your mods folder** | Please refrain from putting ModCore in your mods folder as it can cause crashes, it is not the actual way to install ModCore and might cause issues, if you have a [Sk1er LLC](https://sk1er.llc "Sk1er's Website") mod(s)/partnered mod(s) you shouldnt worry about the installation of ModCore as it installs itself.
