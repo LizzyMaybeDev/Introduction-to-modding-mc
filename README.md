@@ -166,6 +166,7 @@
 # Mods you should avoid - Alternatives
 | Mod | Reason |
 | --- | --- |
+ [**Old Hytilities](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases) | It has been discontinued by Asbyth, and using the old one causes a ton of incompatibilities.
  [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/ "Alternative") | LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
  [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Alternatives/ "Alternative") | SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore violates [Mojang's EULA](https://account.mojang.com/documents/minecraft_eula), and has a ton of problems causing crashes and visual glitches, and the developer steals stuff and is an all around terrible person pepelaugh.
  [**SkyblockCatia**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockCatia.md "Alternative") | Causes a ton of incompatibilities.
@@ -209,7 +210,6 @@
 # Common Issues [WIP]
 | Issue | Explanation |
 | --- | --- |
- **Old Hytilities** | It has been discontinued by asbyth [Sk1erLLC], and is no longer able to work. The updated version by Wyvest can be found [here.](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases)
  **Connected textures** | OptiFine 1.8.9 currently has an issue with connected textures causing crashes. Only "Fancy" is effected, so use "Fast" instead.
  **Abandoned 5Zig** | The old 5Zig can cause a lot of issues due to it no longer being maintained. It is recommended that you switch to [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/ "Alternative") instead.
  **Having ModCore in your mods folder** | Please refrain from putting ModCore in your mods folder as it can cause crashes, it is not the actual way to install ModCore and might cause issues, if you have a [Sk1er LLC](https://sk1er.llc "Sk1er's Website") mod(s)/partnered mod(s) you shouldnt worry about the installation of ModCore as it installs itself.
