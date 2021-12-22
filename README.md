@@ -53,7 +53,7 @@
  [**MiniInfo**](https://www.youtube.com/watch?v=9OwPMxBzQog "Download MiniInfo") | Simple mod to display FPS, CPS, and ping by Aycy.
  [**ResourcePackDisplay**](https://github.com/1fxe/Resource-Pack-Display/releases/ "Download RPD") | (Not to be confused with Resourcepack Manager) Display current pack, the mod also has the /rpd random command to randomly choose a pack from your packs folder with detection for incompatible and duplicate packs.
  [**OnHitParticles**](https://www.youtube.com/watch?v=0PPR_t-qyfw "Download OHP") | A mod to change what particles are shown when you hit someone with great customizability by Aycy.
- [**Damage Tint**](https://github.com/Qalcyo/DamageTint/releases/latest "Download Damage Tint") | A mod change the damage tint when you hit someone by Qalcyo, original idea by Aycy
+ [**Damage Tint**](https://github.com/W-OVERFLOW/DamageTint/releases/latest "Download Damage Tint") | A mod change the damage tint when you hit someone by W-OVERFLOW, original idea by Aycy
  [**Block Overlay**](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/ "Download Block Overlay") | A mod to change the block outline when you hover over blocks with complete customizability over the outline and a very nice unique GUI with live preview. Most people use the old powns continuation of the mod but the original mod has been updated.
  [**DJPerspectiveMod**](https://github.com/DJtheRedstoner/PerspectiveModv4 "Download Perspectivemod") | A remake of canalex's perspective mod with bugfixes. **BANNABLE ON HYPIXEL**
  [**Quickplay**](https://hypixel.net/threads/forge-quickplay-v2-0-4-quickly-join-games-on-the-network.1317410/ "Download Quickplay") | A mod to quickly join hypixel games & sort them to keybinds.
@@ -67,10 +67,10 @@
  [**Cowlection**](https://github.com/cow-mc/Cowlection/releases "Download Cowlection") | A client-side only Forge mod that contains a collection of features (mainly for skyblock but otherwise its a good mod)..
  [**MediaMod**](https://github.com/MediaModMC/MediaMod/releases/) | View your current song in Minecraft with support for services like Spotify, YouTube, SoundCloud & more!
  [**Hytilities Reborn**](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/) | Hytilities Reborn is a hypixel focused mod that brings nice quality of life features. 
- [**ConnorLinfoot's DiscordRP**](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/) | Discord Rich Presence mod for Minecraft, in particular for Hypixel.
+ [**DeDiamondPro's Hycord**](https://github.com/DeDiamondPro/HyCord/releases) | Discord Rich Presence mod for Minecraft, in particular for Hypixel.
  [**Sidebar Revamp mod**](https://www.youtube.com/watch?v=cn9VvT43yRs) | Allows customization of the sidebar.
  [**QuickReport**](https://hypixel.net/threads/forge-1-8-9-quickreport-a-mod-for-quickly-reporting-cheaters-on-hypixel.3428305/) | A Mod for Quickly Reporting Cheaters On Hypixel
- [**Moulberry's Hychat**](https://discord.gg/moulberry) | Hychat is a mod focused towards quality of life chat changes such as chat tabs, complete customizability and you can change the width/height and move the chat by just dragging it with tons more to discover! (currently semi private)
+ [**Llamalad's BetterChat**](https://www.curseforge.com/minecraft/mc-mods/better-chat) | BetterChat is a mod focused towards making your chat just a little bit more visually pleasing. Smooth chat, scale, and position of the chat is included with this mod! (Transparency editor for background coming when it can.)
 [NoCheaters](https://hypixel.net/threads/forge-1-8-nocheaters-%E2%80%93-avoid-cheaters-in-game.2317497/) | NoCheaters saves cheaters that you have reported and warns you in a nice message with the time of your report and the cheats you reported them for as seen here, basically a mod for sweats.
 [ToggleChat](https://no.boomy.wtf/?mod=togglechat&name=ToggleChat&version=3.0.1) | Allows you to enable and disable certain chats on hypixel.
 [ArmorHUD](https://download.powns.dev/armorhud189) | Shows the armor you're wearing and whatever you're holding with percentage for durability.
@@ -166,13 +166,14 @@
 # Mods you should avoid - Alternatives
 | Mod | Reason |
 | --- | --- |
- [**Old Hytilities**](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases) | It has been discontinued by Asbyth, and using the old one causes a ton of incompatibilities.
+ [**Old Hytilities**](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases) | It has been discontinued by asbyth, and using the old one causes a ton of incompatibilities.
  [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/ "Alternative") | LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
  [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Alternatives/ "Alternative") | SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore violates [Mojang's EULA](https://account.mojang.com/documents/minecraft_eula), and has a ton of problems causing crashes and visual glitches, and the developer steals stuff and is an all around terrible person pepelaugh.
  [**SkyblockCatia**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockCatia.md "Alternative") | Causes a ton of incompatibilities.
  **Skypixel** | Unmaintaned and no longer works for Skyblock.
  [**SpiderFrog's OAM**](https://sk1er.club/beta "Alternative") | has over 7mb of bloat and causes crashes. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta "Alternative") which is currently in beta.
  [**Orange Marshall's OAM**](https://sk1er.club/beta "Alternative") | doesnt look like 1.7, missing animations like old sneaking animation, overwrites many things unnecessarily causing other mods to break, like OptiFine's custom item texture. Instead you can use [**Sk1er's OAM**](https://sk1er.club/beta "Alternative") which is currently in beta.
+ [**Hychat**](https://www.curseforge.com/minecraft/mc-mods/better-chat) | Moulberry has abandoned it a long time ago, and it is very buggy.
  **PlayerAPI** | This used to be a requirement for most togglesneaks but fortunately enough developers now know how access transformers actually work and aren't lazy. 
  [**ResourcePack Organizer**](https://www.youtube.com/watch?v=OQZFWrrEcYM "Alternative") by Chylex | overwrites the custom sky for some bizarre reason lmao and he has no plans to update old versions. Instead you can use [Resourcepack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM "Alternative") by Aycy.
  **ModCore Container** | was used to allow players to try out [ModCore](https://sk1er.club/modcore) before it was a thing, but now ModCore is auto installed with all [Sk1er Mods](https://sk1er.club/ "Sk1er's Website")/Partnered developer's mods and in any mod that contains it.
@@ -245,7 +246,7 @@
 - [Powns](https://www.youtube.com/channel/UCSxujMqeSPkQ2mqbYhoAL6g)
 - [isXander discord](https://discord.gg/n2nNdf8YG2)
 - [Pinkulu discord](https://discord.gg/Fykpshg)
-- [Qalcyo Discord](https://inv.wtf/qalcyo)
+- [W-OVERFLOW Discord](https://discord.gg/w-overflow)
 </details> 
 
 ## Credits 
