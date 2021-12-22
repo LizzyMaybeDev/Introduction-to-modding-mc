@@ -166,7 +166,7 @@
 # Mods you should avoid - Alternatives
 | Mod | Reason |
 | --- | --- |
- [**Old Hytilities](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases) | It has been discontinued by Asbyth, and using the old one causes a ton of incompatibilities.
+ [**Old Hytilities**](https://github.com/W-OVERFLOW/Hytilities-Reborn/releases) | It has been discontinued by Asbyth, and using the old one causes a ton of incompatibilities.
  [**LabyMod**](https://github.com/MicrocontrollersDev/Alternatives/ "Alternative") | LabyMod causes a ton of incompatibilities with other mods because the devs love overwriting stuff for no reason like the entirety of the tab and stealing features and it is not recommended.
  [**SkyblockExtras**](https://github.com/MicrocontrollersDev/Alternatives/ "Alternative") | SBE is heavily obfuscated, making it incompatible with many mods, is paid and therefore violates [Mojang's EULA](https://account.mojang.com/documents/minecraft_eula), and has a ton of problems causing crashes and visual glitches, and the developer steals stuff and is an all around terrible person pepelaugh.
  [**SkyblockCatia**](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockCatia.md "Alternative") | Causes a ton of incompatibilities.
