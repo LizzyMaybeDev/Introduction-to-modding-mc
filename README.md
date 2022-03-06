@@ -181,7 +181,7 @@
  **1.8.9 TcpNoDelay** | Useless as 1.8.1 and above already has this enabled. This mod will only work on 1.8.0 and below.
  [**Vanilla Enhancements**](https://sk1er.llc/mods/patcher "Alternative") | Overwrites many things unnecessarily causing other mods to break, like overwriting chat and having a bannable feature, unmaintained, abandoned which is why some features are broken and not getting fixed. Instead [Patcher](https://sk1er.llc/mods/patcher "Alternative") takes some of its best features and fixes them.
  **Inventory and Mouse Tweaks** | Many players get these mods to help sort their inventories in Skyblock, however they are both bannable and are not advised.
- [**MouseDelayFix**](https://sk1er.llc/mods/patcher "Alternative")  | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
+ [**MouseDelayFix**](https://sk1er.llc/mods/patcher "Alternative")  | Both [Optifine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5.jar "Alternative") and [Patcher](https://sk1er.llc/mods/patcher "Alternative") replace it.
  [**MouseBindFix**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**CaseCommands**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
  [**CommandPatcher**](https://sk1er.llc/mods/patcher "Alternative") | [Patcher](https://sk1er.llc/mods/patcher "Alternative") already replaces it.
